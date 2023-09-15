@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="~/dist/css/historias.css">
+</head>
+
+<body>
+    <br>
+
+    <main>
+        <br>
+        <h1 class="titulo">Historias</h1>
+        <article>
+            <br>
+
+            <ul>
+                <li>
+                    <h2>María Betsabé Espinal y la Primera Huelga de Obreras en Colombia</h2>
+                    <p>
+                        A principios del siglo XX, María Betsabé Espinal, una hilandera, lideró
+                        la primera huelga de obreras de Colombia en la Fábrica de Tejidos de Bello
+                        del 12 de febrero al 4 de marzo de 1920. Las mujeres, luchando por mejores
+                        condiciones laborales y salarios justos, desafiaron valientemente las adversidades
+                        y marcaron un punto de inflexión en la historia laboral de Colombia. Esta huelga
+                        destacó la solidaridad y la valentía de las mujeres en la lucha por sus derechos laborales,
+                        contribuyendo significativamente a la historia de la justicia laboral en el país y más allá.
+                    </p>
+
+                    <div>
+                        <img src="~/images/Imagen1.jpg" width="400" height="200" alt="Descripción de la imagen">
+                    </div>
+                </li>
+
+                <br>
+                <li>
+                    <h2>Historia 2</h2>
+                    <p>Introducción de la historia...</p>
+                    <p>Detalles y desarrollo de la historia...</p>
+                    <p>Conclusión y reflexiones finales...</p>
+                    <div>
+                        <img src="~/images/Imagen2.jpg" width="400" height="200" alt="Descripción de la imagen">
+                    </div>
+                </li>
+
+                <br>
+
+                <li>
+                    <h2>Historia 3 </h2>
+                    <p>Introducción de la historia...</p>
+                    <p>Detalles y desarrollo de la historia...</p>
+                    <p>Conclusión y reflexiones finales...</p>
+                    <div>
+                        <img src="~/images/Imagen3.jpg" width="400" height="200" alt="Descripción de la imagen">
+                    </div>
+                </li>
+                <br>
+
+                <li>
+                    <h2>Historia 4 </h2>
+                    <p>Introducción de la historia...</p>
+                    <p>Detalles y desarrollo de la historia...</p>
+                    <p>Conclusión y reflexiones finales...</p>
+                    <div>
+                        <img src="~/images/imagen4.jpg" width="400" height="200" alt="Descripción de la imagen">
+                    </div>
+                </li>
+                <br>
+
+                <li>
+                    <h2>Historia 5 </h2>
+                    <p>Introducción de la historia...</p>
+                    <p>Detalles y desarrollo de la historia...</p>
+                    <p>Conclusión y reflexiones finales...</p>
+                    <div>
+                        <img src="~/images/Imagen5.jpg" width="400" height="200" alt="Descripción de la imagen">
+                    </div>
+                </li>
+            </ul>
+        </article>
+
+
+
+        <h2>Agregar Historias</h2>
+
+        <!-- Formulario para agregar historias -->
+        <form id="story-form">
+            <label for="name">Nombre:</label>
+            <input type="text" id="name" required><br>
+            <label for="story">Historia:</label>
+            <textarea id="story" required></textarea><br>
+            <button type="submit">Agregar Historia</button>
+        </form>
+
+        <!-- Lista de historias -->
+        <div id="stories">
+            <!-- Las historias se mostrarán aquí -->
+        </div>
+
+        <script>
+            // Arreglo para almacenar las historias
+            var storyArray = [];
+
+            // Función para agregar una historia
+            function addStory() {
+                var name = document.getElementById("name").value;
+                var story = document.getElementById("story").value;
+                var newStory = { name: name, story: story };
+                storyArray.push(newStory);
+                displayStories();
+                document.getElementById("name").value = "";
+                document.getElementById("story").value = "";
+            }
+
+            // Función para mostrar las historias en la página
+            function displayStories() {
+                var storiesDiv = document.getElementById("stories");
+                storiesDiv.innerHTML = "";
+                for (var i = 0; i < storyArray.length; i++) {
+                    var storyItem = document.createElement("div");
+                    storyItem.innerHTML = "<strong>" + storyArray[i].name + ":</strong> " + storyArray[i].story;
+                    storiesDiv.appendChild(storyItem);
+                }
+            }
+
+            // Agregar evento de envío del formulario
+            document.getElementById("story-form").addEventListener("submit", function (event) {
+                event.preventDefault();
+                addStory();
+            });
+
+            // Mostrar las historias iniciales
+            displayStories();
+        </script>
+
+    </main>
+</body>
+</html>

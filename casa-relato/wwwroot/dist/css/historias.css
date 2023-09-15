@@ -1,0 +1,61 @@
+ 
+
+.titulo{
+    text-align: center; 
+    }
+    /* Reset de estilos para asegurarse de una base consistente */
+    body, h1, h2, p, img {
+    margin: 0;
+    padding: 0;
+    }
+    
+    /* Estilos generales */
+    body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f5f5f5;
+    color: #333;
+    }
+    
+    /*header {
+    background-color: #834410;
+    color: #fff;
+    padding: 10px;
+    }*/
+    
+    
+    main {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 40px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    article {
+    margin-bottom: 20px;
+    }
+    
+    h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    background-color: #b99f0b;
+    }
+    
+    p {
+    margin-bottom: 15px;
+    }
+    
+    img {
+    max-width: 100%;
+    height: auto;
+    }
+    
+    footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    }
+    
+  

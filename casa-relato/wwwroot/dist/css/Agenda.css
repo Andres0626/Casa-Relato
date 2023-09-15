@@ -1,0 +1,44 @@
+.Articulo {
+    display: flex;
+    align-items: center;
+  }
+
+  .imagen {
+    flex: 1;
+    max-width: 50%;
+  }
+
+  .Titulo{
+    color:#000000;
+    text-align: center;
+    font-weight: bold;
+    text-indent: 4%;
+  }
+  .Titulo2{
+    color: #000000;
+    text-align: left;
+    font-weight: bold;
+    text-indent: 4%;
+    font-size: larger;
+  }
+  .Texto{
+    color : #000000;
+    font-size: medium;
+    text-align: center;
+    text-indent: 2%;
+  }
+
+  .Fecha {
+    font-size: 14px;
+    color: #895D0C;
+    text-indent: 2%;
+  }
+  .Fondo1{
+    background: #F5CBA7;
+  }
+  .Fondo2{
+    background: #59260b;
+  }
+  .Fondo3{
+    background: white;
+  }

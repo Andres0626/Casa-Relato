@@ -1,0 +1,41 @@
+.bloque-beige {
+    background-color: #FFE4B5;
+}
+
+#bloque-azul {
+    background: #E0FFFF;
+}
+
+/* Estilos para las secciones con fondos de colores diferentes */
+.section {
+    padding: 20px;
+    overflow: hidden; /* Para evitar que las imágenes se desborden */
+}
+.beige-light {
+    background-color: beige;
+}
+.blue-light {
+    background-color: lightblue;
+}
+.green-light {
+    background-color: lightgreen;
+}
+.purple-light {
+    background-color: lavender;
+}
+
+/* Estilos para el diseño de texto e imagen */
+.content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.content img {
+    max-width: 50%;
+    margin-right: 20px;
+}
+
+/* Estilos para alternar el diseño */
+.even .content {
+    flex-direction: row-reverse;
+}

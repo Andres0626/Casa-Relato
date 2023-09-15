@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uLw9cpGBc+NVnELg3zW4TnOW+EDL5OICx4NyhdekiqUk8jQQcfzuwk0EuCWJWWUiLa2qnRHhrOz0ayEkpZu0NQ==",
+  "success": true,
+  "projectFilePath": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\casa-relato.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\0626g\\.nuget\\packages\\bootstrap\\5.3.1\\bootstrap.5.3.1.nupkg.sha512",
+    "C:\\Users\\0626g\\.nuget\\packages\\jquery\\3.7.1\\jquery.3.7.1.nupkg.sha512",
+    "C:\\Users\\0626g\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\0626g\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

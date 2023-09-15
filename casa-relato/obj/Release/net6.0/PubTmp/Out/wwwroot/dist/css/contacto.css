@@ -1,0 +1,195 @@
+body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    background-color: #FFF;
+}
+
+.contenedor-primario {
+    background: #F9F9FB;
+    margin-top: 5em;
+    padding: 3em 3em;
+    height: 100vh;
+    box-sizing: border-box !important;
+}
+
+.bloque-contacto {
+    border-radius: 10px;
+    margin: 4vw 16vw;
+    width: 63vw;
+    height: 62vh;
+    background-color: #FFF;
+    padding: 10px;
+}
+
+.titulo {
+    text-align: center;
+    color: #010241;
+    font-weight: bold;
+}
+
+.subtitulo {
+    text-align: center;
+    color: #CACFD2;
+}
+
+.bloque-datos {
+    height: 27em;
+    background: #E9967A;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.bloque-titulo-datos {
+    color: #FFF;
+}
+
+.titulo-datos {
+    font-size: 20px;
+}
+
+.subtitulo-datos {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.icono-contacto {
+    color: #59260b;
+}
+
+.icono-redes {
+    color: #b5e2fa;
+}
+
+.texto-contacto {}
+
+.bloque-formulario {
+    padding: 50px 20px;
+}
+
+/* form starting stylings ------------------------------- */
+.group {
+    position: relative;
+    margin-bottom: 25px;
+}
+
+.input-form {
+    font-size: 18px;
+    padding: 10px 10px 10px 5px;
+    display: block;
+    width: 14em;
+    border: none;
+    border-bottom: 1px solid #CACFD2;
+}
+
+.input-form:focus {
+    outline: none;
+}
+
+.label-form {
+    color: #E9967A;
+    font-size: 16px;
+    font-weight: normal;
+    position: absolute;
+    pointer-events: none;
+    left: 5px;
+    top: 10px;
+    transition: 0.2s ease all;
+    -moz-transition: 0.2s ease all;
+    -webkit-transition: 0.2s ease all;
+}
+
+.label-mensaje {
+    color: #E9967A;
+    font-size: 15px;
+}
+
+/* active state */
+.input-form:focus~.label-form,
+.input-form:valid~.label-form {
+    top: -20px;
+    font-size: 14px;
+    color: #E9967A;
+}
+
+.bar {
+    position: relative;
+    display: block;
+    width: 16em;
+}
+
+.bar:before,
+.bar:after {
+    content: '';
+    height: 2px;
+    width: 0;
+    bottom: 1px;
+    position: absolute;
+    background: #E9967A;
+    transition: 0.2s ease all;
+    -moz-transition: 0.2s ease all;
+    -webkit-transition: 0.2s ease all;
+}
+
+.bar:before {
+    left: 50%;
+}
+
+.bar:after {
+    right: 50%;
+}
+
+.input-form:focus~.bar:before,
+.input-form:focus~.bar:after {
+    width: 50%;
+}
+
+.highlight {
+    position: absolute;
+    height: 60%;
+    width: 100px;
+    top: 25%;
+    left: 0;
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+/* active state */
+.input-form:focus~.highlight {
+    -webkit-animation: inputHighlighter 0.3s ease;
+    -moz-animation: inputHighlighter 0.3s ease;
+    animation: inputHighlighter 0.3s ease;
+}
+
+@-webkit-keyframes inputHighlighter {
+    from {
+        background: #E9967A;
+    }
+
+    to {
+        width: 0;
+        background: transparent;
+    }
+}
+
+@-moz-keyframes inputHighlighter {
+    from {
+        background: #E9967A;
+    }
+
+    to {
+        width: 0;
+        background: transparent;
+    }
+}
+
+@keyframes inputHighlighter {
+    from {
+        background: #E9967A;
+    }
+
+    to {
+        width: 0;
+        background: transparent;
+    }
+}

@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio - Casa Relato</title>
+    <link rel="icon" type="image/x-icon" href="~/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="~/dist/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="~/dist/css/estilos.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav class="navbar shadow-sm fixed-top">
+            <div class="navbar-container container-nav">
+                <input type="checkbox" name="" id="">
+                <div class="hamburger-lines">
+                    <span class="line line1"></span>
+                    <span class="line line2"></span>
+                    <span class="line line3"></span>
+                </div>
+                <ul class="menu-items">
+                    <li><a href="~/Quienes_Somos/Index">Quienes somos</a></li>
+                    <li><a href="~/Agenda/Index">Agenda</a></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Cultura
+                        </a>
+                        <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="~/Relatos/Index">Relatos</a></li>
+                            <li><a class="dropdown-item" href="~/Biblioteca/Index">Biblioteca</a></li>
+                            <li><a class="dropdown-item" href="~/Historias/Index">Historias</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="~/Reseñas/Index">Reseñas</a></li>
+                    <li><a href="~/Aliados/Index">Aliados</a></li>
+                    <li><a href="~/contactanos/Index">Contáctanos</a></li>
+                </ul>
+                <a href="/">
+                    <img class="logo" src="~/images/logo.jpg" alt="logo de casa relato">
+                </a>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted" style="background-color: white">
+        <div class="container">
+            &copy; 2023 - casa_relato - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.8/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.min.js" integrity="sha384-Rx+T1VzGupg4BHQYs2gCW9It+akI2MM/mndMCy36UVfodzcJcF0GGLxZIzObiEfa" crossorigin="anonymous"></script>
+    <script src="~/dist/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/dist/js/inicio.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
