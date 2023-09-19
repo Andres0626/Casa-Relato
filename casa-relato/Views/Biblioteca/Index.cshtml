@@ -9,11 +9,24 @@
     <br>
 
 
+    <div class="row justify-content-center">
+        <div class="col-md-4">
+            <input type="text" class="form-control" id="filtroInput" placeholder="Filtrar por Cualquiera de los Campos">
+        </div>
+        <div class="col-md-auto">
+            <button type="button" class="btn btn-primary btn-block" onclick="filtrarTabla()">Filtrar</button>
+        </div>
+        <div class="col-md-auto">
+            <button type="button" class="btn btn-secondary btn-block" onclick="limpiarFiltro()">Limpiar</button>
+        </div>
+    </div>
+
+
+
     <div>
 
-        <table style="border-collapse: separate; width: 75%; margin: 0 auto;border-spacing: 0 8px;">
+        <table class="table table-striped" style="border-collapse: separate; width: 75%; margin: 0 auto;border-spacing: 0 8px;">
             <tr style="border: 1px solid #000000; text-align: left; padding: 8px;background-color: #adadad;text-align: center;">
-                <!-- Encabezados de la tabla -->
                 <th>Año</th>
                 <th>Lugar</th>
                 <th>Editorial</th>
@@ -38,6 +51,8 @@
                 </tr>
             }
         </table>
+
+
 
 
     </div>
@@ -70,16 +85,56 @@
         }
     </div>
 
-
-
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <script>
-        // Obtén el botón y el modal por su ID
         var abrirModalBtn = document.getElementById('abrirModalBtn');
 
         abrirModalBtn.addEventListener('click', function () {
             $('#miModal').modal('show');
         });
+    </script>
+
+    <script>
+        function filtrarTabla() {
+            var input, filtro, tabla, filas, celdas, texto;
+            input = document.getElementById("filtroInput");
+            filtro = input.value.toUpperCase();
+            tabla = document.querySelector("table");
+            filas = tabla.getElementsByTagName("tr");
+
+            for (var i = 1; i < filas.length; i++) { // Comienza en 1 para omitir la fila de encabezado
+                celdas = filas[i].getElementsByTagName("td");
+                var cumpleFiltro = false;
+
+                for (var j = 0; j < celdas.length; j++) {
+                    texto = celdas[j].textContent || celdas[j].innerText;
+
+                    if (texto.toUpperCase().indexOf(filtro) > -1) {
+                        cumpleFiltro = true;
+                        break; // Si una celda cumple con el filtro, no es necesario verificar las demás
+                    }
+                }
+
+                if (cumpleFiltro) {
+                    filas[i].style.display = "";
+                } else {
+                    filas[i].style.display = "none";
+                }
+            }
+        }
+    </script>
+
+    <script>
+        function limpiarFiltro() {
+            var tabla = document.querySelector("table");
+            var filas = tabla.getElementsByTagName("tr");
+
+            for (var i = 1; i < filas.length; i++) { // Comienza en 1 para omitir la fila de encabezado
+                filas[i].style.display = ""; // Mostrar todas las filas
+            }
+
+            document.getElementById("filtroInput").value = ""; // Limpiar el campo de filtro
+        }
     </script>
 </body>
