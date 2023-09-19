@@ -31,3 +31,42 @@ F:\Proyecto Casa Relato C#\casa-relato\casa-relato\obj\Debug\net6.0\ref\casa-rel
 F:\Proyecto Casa Relato C#\casa-relato\casa-relato\obj\Debug\net6.0\casa-relato.csproj.AssemblyReference.cache
 F:\Proyecto Casa Relato C#\casa-relato\casa-relato\bin\Debug\net6.0\Newtonsoft.Json.dll
 F:\Proyecto Casa Relato C#\casa-relato\casa-relato\obj\Debug\net6.0\casa-relato.csproj.CopyComplete
+F:\CASA RELATO\Casa-Relato\casa-relato\bin\Debug\net6.0\appsettings.Development.json
+F:\CASA RELATO\Casa-Relato\casa-relato\bin\Debug\net6.0\appsettings.json
+F:\CASA RELATO\Casa-Relato\casa-relato\bin\Debug\net6.0\casa-relato.staticwebassets.runtime.json
+F:\CASA RELATO\Casa-Relato\casa-relato\bin\Debug\net6.0\casa-relato.exe
+F:\CASA RELATO\Casa-Relato\casa-relato\bin\Debug\net6.0\casa-relato.deps.json
+F:\CASA RELATO\Casa-Relato\casa-relato\bin\Debug\net6.0\casa-relato.runtimeconfig.json
+F:\CASA RELATO\Casa-Relato\casa-relato\bin\Debug\net6.0\casa-relato.dll
+F:\CASA RELATO\Casa-Relato\casa-relato\bin\Debug\net6.0\casa-relato.pdb
+F:\CASA RELATO\Casa-Relato\casa-relato\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\casa-relato.csproj.AssemblyReference.cache
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\casa-relato.GeneratedMSBuildEditorConfig.editorconfig
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\casa-relato.AssemblyInfoInputs.cache
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\casa-relato.AssemblyInfo.cs
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\casa-relato.csproj.CoreCompileInputs.cache
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\casa-relato.MvcApplicationPartsAssemblyInfo.cache
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\casa-relato.RazorAssemblyInfo.cache
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\casa-relato.RazorAssemblyInfo.cs
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\staticwebassets\msbuild.casa-relato.Microsoft.AspNetCore.StaticWebAssets.props
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\staticwebassets\msbuild.build.casa-relato.props
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.casa-relato.props
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.casa-relato.props
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\staticwebassets.pack.json
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\staticwebassets.build.json
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\staticwebassets.development.json
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\scopedcss\bundle\casa-relato.styles.css
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\scopedcss\projectbundle\casa-relato.bundle.scp.css
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\casa-relato.csproj.CopyComplete
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\casa-relato.dll
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\refint\casa-relato.dll
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\casa-relato.pdb
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\casa-relato.genruntimeconfig.cache
+F:\CASA RELATO\Casa-Relato\casa-relato\obj\Debug\net6.0\ref\casa-relato.dll
+F:\CASA RELATO\Casa-Relato\casa-relato\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\CASA RELATO\Casa-Relato\casa-relato\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\CASA RELATO\Casa-Relato\casa-relato\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\CASA RELATO\Casa-Relato\casa-relato\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\CASA RELATO\Casa-Relato\casa-relato\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\CASA RELATO\Casa-Relato\casa-relato\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

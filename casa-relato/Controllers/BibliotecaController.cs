@@ -1,80 +1,73 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Configuration;
+using Microsoft.Extensions.Configuration;
+using System.Data.SqlClient;
+using casa_relato.Models;
 
 namespace casa_relato.Controllers
 {
     public class BibliotecaController : Controller
     {
-        // GET: BibliotecaController
+
+        private readonly IConfiguration _configuration;
+
+        public BibliotecaController(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
+
         public ActionResult Index()
         {
-            return View();
-        }
-
-        // GET: BibliotecaController/Details/5
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
-
-        // GET: BibliotecaController/Create
-        public ActionResult Create()
-        {
-            return View();
-        }
-
-        // POST: BibliotecaController/Create
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
-        {
             try
             {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
 
-        // GET: BibliotecaController/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
 
-        // POST: BibliotecaController/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
+            
+            string Connection = _configuration.GetConnectionString("ConnectionStrings");
+            var Biblioteca = new List<BibliotecaViewModel>();
 
-        // GET: BibliotecaController/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: BibliotecaController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
+                using (SqlConnection connections = new SqlConnection(Connection))
             {
-                return RedirectToAction(nameof(Index));
+                    string command = $@"Select * from Biblioteca";
+
+                    using (SqlCommand cmd = new SqlCommand(command, connections))
+                    {
+                        connections.Open();
+
+                        using (SqlDataReader reader = cmd.ExecuteReader())
+                        {
+                            while (reader.Read())
+                            {
+
+                                var biblioteca = new BibliotecaViewModel
+                                {
+                                    ID = (int)reader["ID"],
+                                    Año = (Int64)reader["Año"],
+                                    Lugar = (string)reader["Lugar"],
+                                    Editorial = (string)reader["Editorial"],
+                                    Titulo = (string)reader["Titulo"],
+                                    Autor = (string)reader["Autor"],
+                                    Categoria = (string)reader["Categoria"],
+                                    TipoDePublicacion = (string)reader["Tipo_de_Publicacion"],
+                                    Paginas = (Int64)reader["Paginas"]
+
+                                };
+
+                                Biblioteca.Add(biblioteca);
+
+                            }
+
+                        }
+                    }
+
             }
-            catch
+
+
+            return View(Biblioteca);
+            }
+
+            catch (Exception ex)
             {
                 return View();
             }

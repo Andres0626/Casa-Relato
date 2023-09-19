@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\casa-relato.csproj": {}
+    "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\casa-relato.csproj": {}
   },
   "projects": {
-    "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\casa-relato.csproj": {
+    "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\casa-relato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\casa-relato.csproj",
+        "projectUniqueName": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\casa-relato.csproj",
         "projectName": "casa-relato",
-        "projectPath": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\casa-relato.csproj",
+        "projectPath": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\casa-relato.csproj",
         "packagesPath": "C:\\Users\\0626g\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\obj\\",
+        "outputPath": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[13.0.3, )"
             },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            },
             "bootstrap": {
               "target": "Package",
               "version": "[5.3.1, )"
@@ -80,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
