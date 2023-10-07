@@ -36,7 +36,10 @@
                     </li>
                     <li><a href="~/Reseñas/Index">Reseñas</a></li>
                     <li><a href="~/Aliados/Index">Aliados</a></li>
+                    <li><a href="~/Tienda/Index">Tienda</a></li>
                     <li><a href="~/contactanos/Index">Contáctanos</a></li>
+                    <li><a href="~/Iniciar_Sesion/Index">Iniciar Sesión</a></li>
+
                 </ul>
                 <a href="/">
                     <img class="logo" src="~/images/logo.jpg" alt="logo de casa relato">
@@ -55,6 +58,8 @@
             &copy; 2023 - casa_relato - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
@@ -63,5 +68,6 @@
     <script src="~/dist/bootstrap/js/bootstrap.min.js"></script>
     <script src="~/dist/js/inicio.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
+
 </body>
 </html>
