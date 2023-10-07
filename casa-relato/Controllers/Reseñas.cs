@@ -1,83 +1,91 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using casa_relato.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Data.SqlClient;
 
 namespace casa_relato.Controllers
 {
     public class Reseñas : Controller
     {
-        // GET: Reseñas
+
+             private readonly IConfiguration _configuration;
+
+        public Reseñas(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
+
         public ActionResult Index()
         {
-            return View();
-        }
-
-        // GET: Reseñas/Details/5
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
-
-        // GET: Reseñas/Create
-        public ActionResult Create()
-        {
-            return View();
-        }
-
-        // POST: Reseñas/Create
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
-        {
             try
             {
-                return RedirectToAction(nameof(Index));
+
+
+
+                string Connection = _configuration.GetConnectionString("ConnectionStrings");
+                var Reseñas = new List<ReseñasModel>();
+
+                using (SqlConnection connections = new SqlConnection(Connection))
+                {
+                    string command = $@"Select * from Comentarios";
+
+                    using (SqlCommand cmd = new SqlCommand(command, connections))
+                    {
+                        connections.Open();
+
+                        using (SqlDataReader reader = cmd.ExecuteReader())
+                        {
+                            while (reader.Read())
+                            {
+
+                                var reseñas = new ReseñasModel
+                                {
+                                    ID = (int)reader["IdComentario"],
+                                    UserName = (string)reader["UserName"],
+                                    Comentario = (string)reader["Comentario"]
+                                };
+
+                                Reseñas.Add(reseñas);
+
+                            }
+
+                        }
+                    }
+
+                }
+
+
+                return View(Reseñas);
             }
-            catch
+
+            catch (Exception ex)
             {
                 return View();
             }
         }
 
-        // GET: Reseñas/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
-        // POST: Reseñas/Edit/5
         [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult InsertComment(string username, string comment)
         {
-            try
+
+            string Connection = _configuration.GetConnectionString("ConnectionStrings");
+
+            using (SqlConnection connections = new SqlConnection(Connection))
             {
-                return RedirectToAction(nameof(Index));
+                string command = $@"
+                INSERT INTO [dbo].[Comentarios]
+                ([UserName]
+                ,[Comentario])
+                    VALUES
+                        ('{username}',
+           ,            '{comment}')";
+
             }
-            catch
-            {
-                return View();
-            }
+
+
+                return Index();
+
         }
 
-        // GET: Reseñas/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: Reseñas/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
     }
 }
