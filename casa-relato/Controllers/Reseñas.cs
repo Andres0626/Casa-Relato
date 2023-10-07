@@ -67,24 +67,38 @@ namespace casa_relato.Controllers
         [HttpPost]
         public ActionResult InsertComment(string username, string comment)
         {
-
-            string Connection = _configuration.GetConnectionString("ConnectionStrings");
-
-            using (SqlConnection connections = new SqlConnection(Connection))
+            try
             {
-                string command = $@"
-                INSERT INTO [dbo].[Comentarios]
-                ([UserName]
-                ,[Comentario])
-                    VALUES
-                        ('{username}',
-           ,            '{comment}')";
+
+                string connectionString = _configuration.GetConnectionString("ConnectionStrings");
+
+                using (SqlConnection connection = new SqlConnection(connectionString))
+                {
+                    string commandText = @"
+            INSERT INTO [dbo].[Comentarios]
+            ([UserName]
+            ,[Comentario])
+            VALUES
+            (@Username, @Comment)";
+
+                    using (SqlCommand cmd = new SqlCommand(commandText, connection))
+                    {
+                        cmd.Parameters.AddWithValue("@Username", username);
+                        cmd.Parameters.AddWithValue("@Comment", comment);
+
+                        connection.Open();
+                        cmd.ExecuteNonQuery();
+                    }
+                }
+
+                return RedirectToAction("Index");
+
+            } catch (Exception ex)
+            {
+
+                return View("Error");
 
             }
-
-
-                return Index();
-
         }
 
     }
