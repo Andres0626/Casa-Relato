@@ -1,5 +1,80 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@using casa_relato.Models
+@model List<BibliotecaViewModel>
+<link rel="stylesheet" type="text/css" href="../css/relatos.css">
+
+<body style="background-color: white; margin-top: 8em;">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <i class="fa-regular fa-comments"></i> <h2>Relatos que perduran </h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12" style="height: 22%">
+                <img src="../images/portada-relatos.jpeg" class="imagen-portada"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <p style="margin-top: 2em;">
+                    Nuestra comunidad se une para compartir las historias que han sido transmitidas de generación en generación,
+                    y también damos la bienvenida a colaboradores apasionados que desean añadir sus propios capítulos a esta crónica
+                    en constante crecimiento. Juntos, construimos un archivo digital que rinde homenaje a los momentos,
+                    las personas y las experiencias que han dado forma a nuestro querido municipio.
+                </p>
+            </div>
+        </div>
+        <!--Esto vendrá autogenerado de la base de datos-->
+        <div class="row mt-5">
+            <div class="col-4">
+                <div class="caja-relato shadow" onclick="expandir()">
+                    <p class="titulo-relato">Relato 1</p>
+                    <span class="autor">Albeiro Yepes</span>
+                    <p class="cuerpo-relato">
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with
+                        desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an
+                        unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with
+                        the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                    </p>
+                    <div class="row">
+                        <div class="col-1"><i class="fa-solid fa-eye"></i></div>
+                        <div class="col-1">5</div>
+                        <div class="col-1"><a href="#"><i class="fa-solid fa-heart"></i></a></div> <!-- Conteo para los likes-->
+                        <div class="col-1">6</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="caja-relato shadow" onclick="expandir()">
+                    <p class="titulo-relato">Relato 1</p>
+                    <span class="autor">Albeiro Yepes</span>
+                    <p class="cuerpo-relato">
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with
+                        desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an
+                        unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with
+                        the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                    </p>
+                    <div class="row">
+                        <div class="col-1"><i class="fa-solid fa-eye"></i></div>
+                        <div class="col-1">5</div>
+                        <div class="col-1"><a href="#"><i class="fa-solid fa-heart"></i></a></div> <!-- Conteo para los likes-->
+                        <div class="col-1">6</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4"></div>
+            <div class="col-4"></div>
+            <div class="col-4"></div>
+            <div class="col-4"></div>
+        </div>
+    </div>
+    <script>
+        function expandir() {
+            document.querySelector('.caja-relato').classList.toggle('caja-expand');
+            document.querySelector('.cuerpo-relato').classList.toggle('cuerpo-expand');
+        }
+            
+    </script>
+</body>
