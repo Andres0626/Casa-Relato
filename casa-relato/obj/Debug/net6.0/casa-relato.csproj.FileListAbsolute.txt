@@ -93,11 +93,6 @@ D:\Casa-Relato\casa-relato\obj\Debug\net6.0\casa-relato.csproj.CoreCompileInputs
 D:\Casa-Relato\casa-relato\obj\Debug\net6.0\casa-relato.MvcApplicationPartsAssemblyInfo.cache
 D:\Casa-Relato\casa-relato\obj\Debug\net6.0\casa-relato.RazorAssemblyInfo.cache
 D:\Casa-Relato\casa-relato\obj\Debug\net6.0\casa-relato.RazorAssemblyInfo.cs
-D:\Casa-Relato\casa-relato\obj\Debug\net6.0\staticwebassets\msbuild.casa-relato.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Casa-Relato\casa-relato\obj\Debug\net6.0\staticwebassets\msbuild.build.casa-relato.props
-D:\Casa-Relato\casa-relato\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.casa-relato.props
-D:\Casa-Relato\casa-relato\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.casa-relato.props
-D:\Casa-Relato\casa-relato\obj\Debug\net6.0\staticwebassets.pack.json
 D:\Casa-Relato\casa-relato\obj\Debug\net6.0\staticwebassets.build.json
 D:\Casa-Relato\casa-relato\obj\Debug\net6.0\staticwebassets.development.json
 D:\Casa-Relato\casa-relato\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css

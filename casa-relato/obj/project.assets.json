@@ -973,7 +973,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\natal\\.nuget\\packages\\": {}
+    "C:\\Users\\universidad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -981,11 +981,11 @@
       "projectUniqueName": "D:\\Casa-Relato\\casa-relato\\casa-relato.csproj",
       "projectName": "casa-relato",
       "projectPath": "D:\\Casa-Relato\\casa-relato\\casa-relato.csproj",
-      "packagesPath": "C:\\Users\\natal\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\universidad\\.nuget\\packages\\",
       "outputPath": "D:\\Casa-Relato\\casa-relato\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\natal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\universidad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

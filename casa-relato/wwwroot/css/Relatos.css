@@ -7,7 +7,13 @@
     height: 16em;
 }
 
-.caja-relato {
+.caja-relato-1 {
+    background: #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.caja-relato-2 {
     background: #FFFFFF;
     border-radius: 10px;
     padding: 10px;
@@ -23,7 +29,14 @@
     font-size: 12px;
 }
 
-.cuerpo-relato {
+.cuerpo-relato-1 {
+    max-height: 50px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+}
+
+.cuerpo-relato-2 {
     max-height: 50px;
     overflow: hidden;
     display: -webkit-box;
