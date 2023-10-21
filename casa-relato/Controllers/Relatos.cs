@@ -1,80 +1,67 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using casa_relato.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Data.SqlClient;
 
 namespace casa_relato.Controllers
 {
     public class Relatos : Controller
     {
-        // GET: Relatos
+        private readonly IConfiguration _configuration;
+
+        public Relatos(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
+
         public ActionResult Index()
         {
-            return View();
-        }
-
-        // GET: Relatos/Details/5
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
-
-        // GET: Relatos/Create
-        public ActionResult Create()
-        {
-            return View();
-        }
-
-        // POST: Relatos/Create
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
-        {
             try
             {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
 
-        // GET: Relatos/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
 
-        // POST: Relatos/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
 
-        // GET: Relatos/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
+                string Connection = _configuration.GetConnectionString("ConnectionStrings");
+                var Relatos = new List<RelatosModel>();
 
-        // POST: Relatos/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
+                using (SqlConnection connections = new SqlConnection(Connection))
+                {
+                    string command = $@"Select * from Relatos";
+
+                    using (SqlCommand cmd = new SqlCommand(command, connections))
+                    {
+                        connections.Open();
+
+                        using (SqlDataReader reader = cmd.ExecuteReader())
+                        {
+                            while (reader.Read())
+                            {
+
+                                var relatos = new RelatosModel
+                                {
+                                    IdRelato = (int)reader["IdRelato"],
+                                    Titulo = (string)reader["Titulo"],
+                                    Autor = (string)reader["Autor"],
+                                    Contenido = (string)reader["Contenido"],
+                                    Vistas = (int)reader["Vistas"],
+                                    Megusta = (int)reader["Me_Gusta"]
+
+                                };
+
+                                Relatos.Add(relatos);
+
+                            }
+
+                        }
+                    }
+
+                }
+
+
+                return View(Relatos);
             }
-            catch
+
+            catch (Exception ex)
             {
                 return View();
             }
