@@ -1,3 +1,5 @@
 .vs/
 obj/
 casa-relato/appsettings.json
+casa-relato/obj/
+.vs/casa-relato/

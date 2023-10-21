@@ -5,14 +5,19 @@ using System.Data.SqlClient;
 
 namespace casa_relato.Controllers
 {
-    public class Relatos : Controller
+    public class AliadosController : Controller
     {
         private readonly IConfiguration _configuration;
 
-        public Relatos(IConfiguration configuration)
+        public AliadosController(IConfiguration configuration)
         {
             _configuration = configuration;
         }
+
+        public int IdAliado { get; private set; }
+        public string NombreAliado { get; private set; }
+        public string DescripcionAliado { get; private set; }
+        public string ImagenAliado { get; private set; }
 
         public ActionResult Index()
         {
@@ -22,11 +27,11 @@ namespace casa_relato.Controllers
 
 
                 string Connection = _configuration.GetConnectionString("ConnectionStrings");
-                var Relatos = new List<RelatosModel>();
+                var Aliados = new List<AliadosModel>();
 
                 using (SqlConnection connections = new SqlConnection(Connection))
                 {
-                    string command = $@"Select * from Relatos";
+                    string command = $@"Select * from Aliados";
 
                     using (SqlCommand cmd = new SqlCommand(command, connections))
                     {
@@ -37,18 +42,16 @@ namespace casa_relato.Controllers
                             while (reader.Read())
                             {
 
-                                var relatos = new RelatosModel
+                                var aliados = new AliadosModel
                                 {
-                                    IdRelato = (int)reader["IdRelato"],
-                                    Titulo = (string)reader["Titulo"],
-                                    Autor = (string)reader["Autor"],
-                                    Contenido = (string)reader["Contenido"],
-                                    Vistas = (int)reader["Vistas"],
-                                    Megusta = (int)reader["Me_Gusta"]
+                                    IdAliado = (int)reader["IdAliado"],
+                                    NombreAliado = (string)reader["NombreAliado"],
+                                    DescripcionAliado = (string)reader["DescripcionAliado"],
+                                    ImagenAliado = (string)reader["ImagenAliado"]
 
                                 };
 
-                                Relatos.Add(relatos);
+                                Aliados.Add(aliados);
 
                             }
 
@@ -58,7 +61,7 @@ namespace casa_relato.Controllers
                 }
 
 
-                return View(Relatos);
+                return View(Aliados);
             }
 
             catch (Exception ex)
