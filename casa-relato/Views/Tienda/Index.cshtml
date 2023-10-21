@@ -1,5 +1,191 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿<link rel="stylesheet" type="text/css" href="../css/tienda.css">
+
+<body style="background-color: white; margin-top: 8em;">
+    <div class="contenedor">
+        <div class="row">
+            <div class="col-3">
+                <div class="sidebar">
+
+                    <div class="sidebar-categories area">
+                        <a href="#sidebar-categories" class="sidebar-title" data-bs-toggle="collapse">Categorías</a>
+                        <hr>
+
+                        <div id="sidebar-categories" class="collapse show">
+                            <ul class="sidebar-list">
+                                <li><a href="#">Categoría 1 <span>(100)</span></a></li>
+                                <li><a href="#">Categorría 2 <span>(52)</span></a></li>
+                                <li><a href="#">Categoría 3 <span>(8)</span></a></li>
+                                <li><a href="#">Categoría 4 <span>(60)</span></a></li>
+                                <li><a href="#">Categoría 5 <span>(85)</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="sidebar-sort area">
+                        <a href="#sidebar-sort" class="sidebar-title" data-bs-toggle="collapse">Ordenar por</a>
+                        <hr>
+
+
+
+                        <div id="sidebar-sort" class="collapse show">
+                            <ul class="sidebar-list">
+
+                                <li><a href="#">Nombre (A-z)</a></li>
+                                <li><a href="#">Nombre (Z-a)</a></li>
+                                <li><a href="#">Precio: menor a mayor</a></li>
+                                <li><a href="#">Precio: mayor a menor</a></li>
+
+
+                            </ul>
+                        </div>
+                    </div>
+
+
+
+                    <div class="sidebar-filter area">
+                        <a href="#sidebar-filter" class="sidebar-title" data-bs-toggle="collapse">Filtrar por precio</a>
+
+                        <hr>
+
+                        <div id="sidebar-filter" class="collapse show">
+
+                            <ul class="sidebar-list">
+
+                                <li><a href="#">$0 - $100</a></li>
+                                <li><a href="#">$100 - $500</a></li>
+                                <li><a href="#">$1000 - $2000</a></li>
+                                <li><a href="#">$1000 - $2000</a></li>
+                                <li><a href="#">$2000 - $5000</a></li>
+
+
+                            </ul>
+                        </div>
+                    </div>
+
+
+
+                    <div class="sidebar-featured area">
+                        <a href="#sidebar-featured" class="sidebar-title" data-bs-toggle="collapse">Destacados</a>
+                        <hr>
+
+                        <div id="sidebar-featured" class="collapse show">
+                            <div class="sidebar-featured-product bg-light1 py-3 pr-2">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <img class="img-fluid" src="../images/producto1.png" alt="">
+                                    </div>
+                                    <div class="col-md-8">
+                                        <p class="mb-0">Torta de zanahoria</p>
+                                        <p class="mb-0">$00.00</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="sidebar-featured-product bg-light1 py-3 pr-2">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <img class="img-fluid" src="../images/producto2.png" alt="">
+                                    </div>
+                                    <div class="col-md-8">
+                                        <p class="mb-0">Nachos con queso y guacamole</p>
+                                        <p class="mb-0">$00.00</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="sidebar-featured-product bg-light1 py-3 pr-2">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <img class="img-fluid" src="../images/producto3.png" alt="">
+                                    </div>
+                                    <div class="col-md-8">
+                                        <p class="mb-0">Brownie con helado</p>
+                                        <p class="mb-0">$00.00</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-8">
+                <div class="row">
+                    <div class="col-4">
+                        <div class="card shadow">
+                            <div class="card-body">
+                                <div class="card-img-actions">
+                                    <img src="../images/producto1.png" class="card-img img-fluid" width="96" height="350" alt="">
+                                </div>
+                            </div>
+
+                            <div class="card-body bg-light text-center">
+                                <div class="mb-2">
+                                    <h6 class="font-weight-semibold mb-2">
+                                        <a href="#" class="texto-titulo mb-2" data-abc="true">Torta de naranja</a>
+                                    </h6>
+
+                                    <a href="#" class="text-muted" data-abc="true">Postres</a>
+                                </div>
+
+                                <h3 class="mb-0 font-weight-semibold">$00.000</h3>
+
+                                <div>
+                                    <i class="fa fa-star star"></i>
+                                    <i class="fa fa-star star"></i>
+                                    <i class="fa fa-star star"></i>
+                                    <i class="fa fa-star star"></i>
+                                </div>
+
+                                <div class="text-muted mb-3">0 comentarios</div>
+
+                                <button type="button" class="btn-casa-relato"><i class="fa fa-cart-plus mr-2"></i> Añadir al carrito</button>
+
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-4">
+                        <div class="card shadow">
+                            <div class="card-body">
+                                <div class="card-img-actions">
+                                    <img src="../images/producto2.png" class="card-img img-fluid" width="96" height="350" alt="">
+                                </div>
+                            </div>
+
+                            <div class="card-body bg-light text-center">
+                                <div class="mb-2">
+                                    <h6 class="font-weight-semibold mb-2">
+                                        <a href="#" class="texto-titulo mb-2" data-abc="true">Nachos con guacamole</a>
+                                    </h6>
+
+                                    <a href="#" class="text-muted" data-abc="true">Entradas</a>
+                                </div>
+
+                                <h3 class="mb-0 font-weight-semibold">$00.000</h3>
+
+                                <div>
+                                    <i class="fa fa-star star"></i>
+                                    <i class="fa fa-star star"></i>
+                                    <i class="fa fa-star star"></i>
+                                    <i class="fa fa-star star"></i>
+                                </div>
+
+                                <div class="text-muted mb-3">0 comentarios</div>
+
+                                <button type="button" class="btn-casa-relato"><i class="fa fa-cart-plus mr-2"></i> Añadir al carrito</button>
+
+
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <div class="col-3"></div>
+                </div>
+            </div>
+        </div>
+        <script>
+
+        </script>
+</body>

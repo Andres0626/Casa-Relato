@@ -5,13 +5,21 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+<<<<<<< HEAD
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\USUARIO\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\natal\.nuget\packages\</NuGetPackageFolders>
+>>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.7.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD
     <SourceRoot Include="C:\Users\USUARIO\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
+=======
+    <SourceRoot Include="C:\Users\natal\.nuget\packages\" />
+>>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
   </ItemGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Content Include="$(NuGetPackageRoot)bootstrap\5.3.1\contentFiles\any\any\wwwroot\css\bootstrap-grid.css" Condition="Exists('$(NuGetPackageRoot)bootstrap\5.3.1\contentFiles\any\any\wwwroot\css\bootstrap-grid.css')">
@@ -368,6 +376,10 @@
     </Content>
   </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD
     <PkgjQuery Condition=" '$(PkgjQuery)' == '' ">C:\Users\USUARIO\.nuget\packages\jquery\3.7.1</PkgjQuery>
+=======
+    <PkgjQuery Condition=" '$(PkgjQuery)' == '' ">C:\Users\natal\.nuget\packages\jquery\3.7.1</PkgjQuery>
+>>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
   </PropertyGroup>
 </Project>
