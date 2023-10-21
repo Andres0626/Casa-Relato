@@ -1,44 +1,64 @@
 .Articulo {
     display: flex;
     align-items: center;
-  }
+}
 
-  .imagen {
+.imagen {
     flex: 1;
     max-width: 50%;
-  }
+}
 
-  .Titulo{
-    color:#000000;
+.Titulo {
+    color: #000000;
     text-align: center;
     font-weight: bold;
     text-indent: 4%;
-  }
-  .Titulo2{
+}
+
+.Titulo2 {
     color: #000000;
     text-align: left;
     font-weight: bold;
     text-indent: 4%;
     font-size: larger;
-  }
-  .Texto{
-    color : #000000;
+}
+
+.Texto {
+    color: #000000;
     font-size: medium;
     text-align: center;
     text-indent: 2%;
-  }
+}
 
-  .Fecha {
+.Fecha {
     font-size: 14px;
     color: #895D0C;
     text-indent: 2%;
-  }
-  .Fondo1{
+}
+
+.Fondo1 {
     background: #F5CBA7;
-  }
-  .Fondo2{
+}
+
+.Fondo2 {
     background: #59260b;
-  }
-  .Fondo3{
+}
+
+.Fondo3 {
     background: white;
-  }
+}
+
+.fondo4 {
+    background-color: gray;
+    border-style: solid;
+}
+
+.input-form {
+    font-size: 18px;
+    padding: 10px 10px 10px 5px;
+    display: block;
+    width: 14em;
+    border: none;
+    border-bottom: 1px solid #CACFD2;
+    text-align: left;
+}
