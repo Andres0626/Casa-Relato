@@ -1,3 +1,8 @@
+body {
+    background-image: url("../../images/cafe3.png");
+    background-size: cover;
+    color: #FFFFFF;
+}
 .Articulo {
     display: flex;
     align-items: center;
@@ -38,19 +43,23 @@
 
 .Fondo1 {
     background: #F5CBA7;
+    opacity: 2;
 }
 
 .Fondo2 {
     background: #59260b;
+    opacity: 2;
 }
 
 .Fondo3 {
     background: white;
+    opacity: 2;
 }
 
 .fondo4 {
     background-color: gray;
     border-style: solid;
+    opacity: 0.2;
 }
 
 .input-form {
