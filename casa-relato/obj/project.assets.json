@@ -973,37 +973,19 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\USUARIO\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
-=======
     "C:\\Users\\natal\\.nuget\\packages\\": {}
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\casa-relato.csproj",
-      "projectName": "casa-relato",
-      "projectPath": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\casa-relato.csproj",
-      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\obj\\",
-=======
       "projectUniqueName": "D:\\Casa-Relato\\casa-relato\\casa-relato.csproj",
       "projectName": "casa-relato",
       "projectPath": "D:\\Casa-Relato\\casa-relato\\casa-relato.csproj",
       "packagesPath": "C:\\Users\\natal\\.nuget\\packages\\",
       "outputPath": "D:\\Casa-Relato\\casa-relato\\obj\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "projectStyle": "PackageReference",
       "configFilePaths": [
-<<<<<<< HEAD
-        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-=======
         "C:\\Users\\natal\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1060,24 +1042,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.23, 6.0.23]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.23, 6.0.23]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.23, 6.0.23]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.23, 6.0.23]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -1086,11 +1050,7 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
-=======
         "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.317\\RuntimeIdentifierGraph.json"
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       }
     }
   },
