@@ -973,19 +973,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\natal\\.nuget\\packages\\": {}
+    "C:\\Users\\deivi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Casa-Relato\\casa-relato\\casa-relato.csproj",
+      "projectUniqueName": "D:\\Casa_Relato\\Casa-Relato\\casa-relato\\casa-relato.csproj",
       "projectName": "casa-relato",
-      "projectPath": "D:\\Casa-Relato\\casa-relato\\casa-relato.csproj",
-      "packagesPath": "C:\\Users\\natal\\.nuget\\packages\\",
-      "outputPath": "D:\\Casa-Relato\\casa-relato\\obj\\",
+      "projectPath": "D:\\Casa_Relato\\Casa-Relato\\casa-relato\\casa-relato.csproj",
+      "packagesPath": "C:\\Users\\deivi\\.nuget\\packages\\",
+      "outputPath": "D:\\Casa_Relato\\Casa-Relato\\casa-relato\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\natal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\deivi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -993,6 +998,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1038,7 +1044,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -1050,16 +1057,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.317\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché D:\\Casa-Relato\\casa-relato\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

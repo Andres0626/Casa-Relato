@@ -4,42 +4,39 @@
 <head>
     <link rel="stylesheet" type="text/css" href="~/dist/css/referencias.css">
 </head>
-
 <body>
-
-
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-
-    <div class="container comment-container">
-        <h2>Comentarios</h2>
-
-        @foreach (var comentario in Model)
-        {
-            <div class="comment">
-                <h3>@comentario.UserName</h3>
-                <p>@comentario.Comentario</p>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-6">
+                <h2>Deja tu comentario</h2>
+                <form id="comment-form" method="post" asp-action="InsertComment" asp-controller="Reseñas">
+                    <div class="form-group">
+                        <label for="username">Nombre de Usuario:</label>
+                        <input type="text" id="username" name="username" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="comment">Comentario:</label>
+                        <textarea id="comment" name="comment" rows="4" class="form-control" required></textarea>
+                    </div>
+                    <br>
+                    <button type="submit" class="btn btn-primary">Publicar Comentario</button>
+                </form>
             </div>
-        }
-        <!-- Agrega más comentarios aquí -->
-
-        <h2>Deja tu comentario</h2>
-        <form id="comment-form" method="post" asp-action="InsertComment" asp-controller="Reseñas">
-            <div class="form-group">
-                <label for="username">Nombre de Usuario:</label>
-                <input type="text" id="username" name="username" class="form-control" required>
+            <div class="col-6">
+                <h2>Comentarios</h2>
+                @foreach (var comentario in Model)
+                {
+                    <div class="card mb-3">
+                        <div class="card-body">
+                            <h5 class="card-title">@comentario.UserName</h5>
+                            <p class="card-text">@comentario.Comentario</p>
+                        </div>
+                    </div>
+                }
+                <!-- Agrega más comentarios aquí -->
             </div>
-
-            <div class="form-group">
-                <label for="comment">Comentario:</label>
-                <textarea id="comment" name="comment" rows="4" class="form-control" required></textarea>
-            </div>
-
-            <button type="submit" class="btn btn-primary">Publicar Comentario</button>
-        </form>
+        </div>
     </div>
 </body>
 </html>
+

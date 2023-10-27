@@ -5,72 +5,73 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = casa_relato
 build_property.RootNamespace = casa_relato
-build_property.ProjectDir = D:\Casa-Relato\casa-relato\
+build_property.ProjectDir = D:\Casa_Relato\Casa-Relato\casa-relato\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Casa-Relato\casa-relato
+build_property.MSBuildProjectDirectory = D:\Casa_Relato\Casa-Relato\casa-relato
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Casa-Relato/casa-relato/Views/Agenda/Index.cshtml]
+[D:/Casa_Relato/Casa-Relato/casa-relato/Views/Agenda/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Casa-Relato/casa-relato/Views/Aliados/Index.cshtml]
+[D:/Casa_Relato/Casa-Relato/casa-relato/Views/Aliados/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxpYWRvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Casa-Relato/casa-relato/Views/Biblioteca/Index.cshtml]
+[D:/Casa_Relato/Casa-Relato/casa-relato/Views/Biblioteca/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGVjYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Casa-Relato/casa-relato/Views/Contactanos/Index.cshtml]
+[D:/Casa_Relato/Casa-Relato/casa-relato/Views/Contactanos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdGFub3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Casa-Relato/casa-relato/Views/Home/Index.cshtml]
+[D:/Casa_Relato/Casa-Relato/casa-relato/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Casa-Relato/casa-relato/Views/Iniciar_Sesion/Index.cshtml]
+[D:/Casa_Relato/Casa-Relato/casa-relato/Views/Iniciar_Sesion/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lhcl9TZXNpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Casa-Relato/casa-relato/Views/Quienes_somos/Index.cshtml]
+[D:/Casa_Relato/Casa-Relato/casa-relato/Views/Quienes_somos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpZW5lc19zb21vc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Casa-Relato/casa-relato/Views/Relatos/Index.cshtml]
+[D:/Casa_Relato/Casa-Relato/casa-relato/Views/Relatos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Casa-Relato/casa-relato/Views/Reseñas/Index.cshtml]
+[D:/Casa_Relato/Casa-Relato/casa-relato/Views/Reseñas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZcOxYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Casa-Relato/casa-relato/Views/Shared/Error.cshtml]
+[D:/Casa_Relato/Casa-Relato/casa-relato/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Casa-Relato/casa-relato/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Casa_Relato/Casa-Relato/casa-relato/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Casa-Relato/casa-relato/Views/Tienda/Index.cshtml]
+[D:/Casa_Relato/Casa-Relato/casa-relato/Views/Tienda/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGllbmRhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Casa-Relato/casa-relato/Views/_ViewImports.cshtml]
+[D:/Casa_Relato/Casa-Relato/casa-relato/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Casa-Relato/casa-relato/Views/_ViewStart.cshtml]
+[D:/Casa_Relato/Casa-Relato/casa-relato/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Casa-Relato/casa-relato/Views/Shared/_Layout.cshtml]
+[D:/Casa_Relato/Casa-Relato/casa-relato/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-97ydan56jp
