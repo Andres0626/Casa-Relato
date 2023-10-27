@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "jaV2F7OtKz8NVm+k0jGcsii+h+EMQb7VC0wJqeyZa+U=",
-=======
-  "Hash": "RPq8bDOJPnTV1l4kjfrvAZWk2qd6bAylZv6SmfEzio8=",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
+  "Hash": "6b+sexhr8Rvo/91OghJTQEEp644Xf371bgksDfKlL+M=",
   "Source": "casa-relato",
   "BasePath": "_content/casa-relato",
   "Mode": "Default",
@@ -14,28 +10,17 @@
     {
       "Name": "casa-relato\\wwwroot",
       "Source": "casa-relato",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -46,15 +31,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css"
     },
     {
@@ -62,7 +38,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap.css.map",
       "AssetKind": "All",
@@ -73,15 +48,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map"
     },
     {
@@ -89,7 +55,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -100,15 +65,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css"
     },
     {
@@ -116,7 +72,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -127,15 +82,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map"
     },
     {
@@ -143,7 +89,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -154,15 +99,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css"
     },
     {
@@ -170,7 +106,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -181,15 +116,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map"
     },
     {
@@ -197,7 +123,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -208,15 +133,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css"
     },
     {
@@ -224,7 +140,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -235,15 +150,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map"
     },
     {
@@ -251,7 +157,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -262,15 +167,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css"
     },
     {
@@ -278,7 +174,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -289,15 +184,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map"
     },
     {
@@ -305,7 +191,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -316,15 +201,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css"
     },
     {
@@ -332,7 +208,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -343,15 +218,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map"
     },
     {
@@ -359,7 +225,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -370,15 +235,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css"
     },
     {
@@ -386,7 +242,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -397,15 +252,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map"
     },
     {
@@ -413,7 +259,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -424,15 +269,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css"
     },
     {
@@ -440,7 +276,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -451,15 +286,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
@@ -467,7 +293,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -478,15 +303,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css"
     },
     {
@@ -494,7 +310,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -505,15 +320,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map"
     },
     {
@@ -521,7 +327,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -532,15 +337,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css"
     },
     {
@@ -548,7 +344,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -559,15 +354,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map"
     },
     {
@@ -575,7 +361,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -586,15 +371,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css"
     },
     {
@@ -602,7 +378,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -613,15 +388,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
@@ -629,7 +395,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -640,15 +405,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
@@ -656,7 +412,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -667,15 +422,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
@@ -683,7 +429,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -694,15 +439,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css"
     },
     {
@@ -710,7 +446,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -721,15 +456,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map"
     },
     {
@@ -737,7 +463,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -748,15 +473,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css"
     },
     {
@@ -764,7 +480,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -775,15 +490,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map"
     },
     {
@@ -791,7 +497,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -802,15 +507,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css"
     },
     {
@@ -818,7 +514,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -829,15 +524,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
@@ -845,7 +531,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -856,15 +541,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
@@ -872,7 +548,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -883,15 +558,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
@@ -899,7 +565,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -910,15 +575,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js"
     },
     {
@@ -926,7 +582,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -937,15 +592,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map"
     },
     {
@@ -953,7 +599,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -964,15 +609,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
@@ -980,7 +616,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -991,15 +626,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map"
     },
     {
@@ -1007,7 +633,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1018,15 +643,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js"
     },
     {
@@ -1034,7 +650,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1045,15 +660,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map"
     },
     {
@@ -1061,7 +667,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1072,15 +677,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js"
     },
     {
@@ -1088,7 +684,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1099,15 +694,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map"
     },
     {
@@ -1115,7 +701,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -1126,15 +711,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js"
     },
     {
@@ -1142,7 +718,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1153,15 +728,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map"
     },
     {
@@ -1169,7 +735,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1180,15 +745,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js"
     },
     {
@@ -1196,7 +752,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1207,15 +762,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\obj\\Debug\\net6.0\\scopedcss\\bundle\\casa-relato.styles.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-=======
       "OriginalItemSpec": "C:\\Users\\natal\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map"
     },
     {
@@ -1223,7 +769,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "casa-relato.styles.css",
       "AssetKind": "All",
@@ -1234,15 +779,6 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\obj\\Debug\\net6.0\\scopedcss\\bundle\\casa-relato.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\casa-relato.bundle.scp.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-=======
       "OriginalItemSpec": "D:\\Casa-Relato\\casa-relato\\obj\\Debug\\net6.0\\scopedcss\\bundle\\casa-relato.styles.css"
     },
     {
@@ -1250,7 +786,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "casa-relato.bundle.scp.css",
       "AssetKind": "All",
@@ -1261,15 +796,6 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\casa-relato.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\css\\iniciosesion.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "OriginalItemSpec": "D:\\Casa-Relato\\casa-relato\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\casa-relato.bundle.scp.css"
     },
     {
@@ -1277,7 +803,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/iniciosesion.css",
       "AssetKind": "All",
@@ -1291,17 +816,10 @@
       "OriginalItemSpec": "wwwroot\\css\\iniciosesion.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\css\\Relatos.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\css\\Relatos.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/Relatos.css",
       "AssetKind": "All",
@@ -1315,17 +833,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Relatos.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\css\\site.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\css\\site.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1339,12 +850,6 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\css\\tienda.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
@@ -1366,7 +871,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -1380,17 +884,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1404,17 +901,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1428,17 +918,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1452,17 +935,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1476,17 +952,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1500,17 +969,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.min.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1524,17 +986,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1548,17 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1572,17 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1596,17 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1620,17 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1644,17 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1668,17 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1692,17 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1716,17 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1740,17 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1764,17 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1788,17 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1812,17 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1836,17 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1860,17 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1884,17 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1908,17 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1932,17 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1956,17 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1980,17 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.min.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2004,17 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2028,17 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2052,17 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2076,17 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2100,17 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2124,17 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2148,17 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2172,17 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.min.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2196,17 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2220,17 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2244,17 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.js.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2268,17 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.min.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.min.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2292,17 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2316,17 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -2340,17 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\js\\bootstrap.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2364,17 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.min.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2388,17 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.min.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2412,17 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\Agenda.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\Agenda.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/css/Agenda.css",
       "AssetKind": "All",
@@ -2436,17 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\css\\Agenda.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\contacto.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\contacto.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/css/contacto.css",
       "AssetKind": "All",
@@ -2460,17 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\css\\contacto.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\estilos.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\estilos.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/css/estilos.css",
       "AssetKind": "All",
@@ -2484,17 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\css\\estilos.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\historias.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\historias.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/css/historias.css",
       "AssetKind": "All",
@@ -2508,17 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\css\\historias.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\quienessomos.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\quienessomos.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/css/quienessomos.css",
       "AssetKind": "All",
@@ -2532,17 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\css\\quienessomos.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\referencias.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\referencias.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/css/referencias.css",
       "AssetKind": "All",
@@ -2556,17 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\css\\referencias.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\dist\\js\\inicio.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\dist\\js\\inicio.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "dist/js/inicio.js",
       "AssetKind": "All",
@@ -2580,17 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\js\\inicio.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\favicon.ico",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\favicon.ico",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -2604,17 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\Aliados.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\Aliados.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/Aliados.jpg",
       "AssetKind": "All",
@@ -2628,17 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Aliados.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\artesanal.jpeg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\artesanal.jpeg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/artesanal.jpeg",
       "AssetKind": "All",
@@ -2652,17 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\images\\artesanal.jpeg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\Biblioteca.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\Biblioteca.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/Biblioteca.jpg",
       "AssetKind": "All",
@@ -2676,17 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Biblioteca.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\cafe.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\cafe.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/cafe.jpg",
       "AssetKind": "All",
@@ -2700,17 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cafe.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\cafe1.png",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\cafe1.png",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/cafe1.png",
       "AssetKind": "All",
@@ -2724,17 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cafe1.png"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\cafe2.png",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\cafe2.png",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/cafe2.png",
       "AssetKind": "All",
@@ -2748,17 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cafe2.png"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\cafe3.png",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\cafe3.png",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/cafe3.png",
       "AssetKind": "All",
@@ -2772,17 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cafe3.png"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\CafeQuienesSomos.jpeg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\CafeQuienesSomos.jpeg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/CafeQuienesSomos.jpeg",
       "AssetKind": "All",
@@ -2796,17 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\images\\CafeQuienesSomos.jpeg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\carousel1.jpeg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\carousel1.jpeg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/carousel1.jpeg",
       "AssetKind": "All",
@@ -2820,17 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\images\\carousel1.jpeg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\carousel2.jpeg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\carousel2.jpeg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/carousel2.jpeg",
       "AssetKind": "All",
@@ -2844,17 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\images\\carousel2.jpeg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\carousel3.jpeg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\carousel3.jpeg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/carousel3.jpeg",
       "AssetKind": "All",
@@ -2868,17 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\images\\carousel3.jpeg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\carousel4.jpeg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\carousel4.jpeg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/carousel4.jpeg",
       "AssetKind": "All",
@@ -2892,17 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\images\\carousel4.jpeg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\ComoSurgimos.jpeg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\ComoSurgimos.jpeg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/ComoSurgimos.jpeg",
       "AssetKind": "All",
@@ -2916,17 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ComoSurgimos.jpeg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\Espacio.jpeg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\Espacio.jpeg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/Espacio.jpeg",
       "AssetKind": "All",
@@ -2940,17 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Espacio.jpeg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\evento1.png",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\evento1.png",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/evento1.png",
       "AssetKind": "All",
@@ -2964,17 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\images\\evento1.png"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\evento2.png",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\evento2.png",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/evento2.png",
       "AssetKind": "All",
@@ -2988,17 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\images\\evento2.png"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\evento3.png",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\evento3.png",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/evento3.png",
       "AssetKind": "All",
@@ -3012,17 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\images\\evento3.png"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\evento4.png",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\evento4.png",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/evento4.png",
       "AssetKind": "All",
@@ -3036,17 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\images\\evento4.png"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\favicon.ico",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\favicon.ico",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/favicon.ico",
       "AssetKind": "All",
@@ -3060,17 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon.ico"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\Imagen1.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\Imagen1.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/Imagen1.jpg",
       "AssetKind": "All",
@@ -3084,17 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Imagen1.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\Imagen2.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\Imagen2.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/Imagen2.jpg",
       "AssetKind": "All",
@@ -3108,17 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Imagen2.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\Imagen3.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\Imagen3.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/Imagen3.jpg",
       "AssetKind": "All",
@@ -3132,17 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Imagen3.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\imagen4.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\imagen4.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/imagen4.jpg",
       "AssetKind": "All",
@@ -3156,17 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen4.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\Imagen5.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\Imagen5.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/Imagen5.jpg",
       "AssetKind": "All",
@@ -3180,12 +2159,23 @@
       "OriginalItemSpec": "wwwroot\\images\\Imagen5.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\inicio1.jpg",
+      "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\ImagenContactoss.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
+      "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
+      "BasePath": "_content/casa-relato",
+      "RelativePath": "images/ImagenContactoss.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ImagenContactoss.jpg"
+    },
+    {
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\img-contacto.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
@@ -3207,7 +2197,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/inicio1.jpg",
       "AssetKind": "All",
@@ -3221,17 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\images\\inicio1.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\inicio2.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\inicio2.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/inicio2.jpg",
       "AssetKind": "All",
@@ -3245,17 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\inicio2.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\inicio3.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\inicio3.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/inicio3.jpg",
       "AssetKind": "All",
@@ -3269,17 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\images\\inicio3.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\inicio4.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\inicio4.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/inicio4.jpg",
       "AssetKind": "All",
@@ -3293,17 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\images\\inicio4.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\inicio5.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\inicio5.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/inicio5.jpg",
       "AssetKind": "All",
@@ -3317,17 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\images\\inicio5.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\libro.png",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\libro.png",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/libro.png",
       "AssetKind": "All",
@@ -3341,17 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\images\\libro.png"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\logo.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\logo.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/logo.jpg",
       "AssetKind": "All",
@@ -3365,17 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\logo_blanco.png",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\logo_blanco.png",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/logo_blanco.png",
       "AssetKind": "All",
@@ -3389,17 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo_blanco.png"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\portada-relatos.jpeg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\portada-relatos.png",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/portada-relatos.png",
       "AssetKind": "All",
@@ -3413,12 +2346,6 @@
       "OriginalItemSpec": "wwwroot\\images\\portada-relatos.png"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-1.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\producto1.png",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
@@ -3474,7 +2401,6 @@
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/slide-1.jpg",
       "AssetKind": "All",
@@ -3488,17 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide-1.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-2.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-2.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/slide-2.jpg",
       "AssetKind": "All",
@@ -3512,17 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide-2.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-3.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-3.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/slide-3.jpg",
       "AssetKind": "All",
@@ -3536,17 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide-3.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-4.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-4.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/slide-4.jpg",
       "AssetKind": "All",
@@ -3560,17 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide-4.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-5.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-5.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/slide-5.jpg",
       "AssetKind": "All",
@@ -3584,17 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide-5.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-6.jpg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-6.jpg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/slide-6.jpg",
       "AssetKind": "All",
@@ -3608,17 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide-6.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\images\\VisionCasa.jpeg",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\images\\VisionCasa.jpeg",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "images/VisionCasa.jpeg",
       "AssetKind": "All",
@@ -3632,17 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\images\\VisionCasa.jpeg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\js\\site.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\js\\site.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -3656,17 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -3680,17 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -3704,17 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -3728,17 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -3752,17 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -3776,17 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -3800,17 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -3824,17 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -3848,17 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -3872,17 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -3896,17 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -3920,17 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -3944,17 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -3968,17 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -3992,17 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -4016,17 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -4040,17 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -4064,17 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -4088,17 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -4112,17 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -4136,17 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -4160,17 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -4184,17 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -4208,17 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -4232,17 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -4256,17 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -4280,17 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -4304,17 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -4328,17 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -4352,17 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -4376,17 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -4400,17 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -4424,17 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -4448,17 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -4472,17 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -4496,17 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -4520,17 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -4544,17 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -4568,17 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -4592,17 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -4616,17 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -4640,17 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -4664,17 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -4688,17 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -4712,17 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -4736,17 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -4760,17 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -4784,17 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -4808,17 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -4832,17 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -4856,17 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -4880,17 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -4904,17 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -4928,17 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -4952,17 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -4976,17 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -5000,17 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "casa-relato",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\Andres0626\\Casa-Relato\\casa-relato\\wwwroot\\",
-=======
       "Identity": "D:\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "casa-relato",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Casa-Relato\\casa-relato\\wwwroot\\",
->>>>>>> 6fa70372147e9725404152d1918d3756fbb6c3c7
       "BasePath": "_content/casa-relato",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

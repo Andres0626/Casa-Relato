@@ -8,7 +8,7 @@ namespace casa_relato.Controllers
     public class Reseñas : Controller
     {
 
-             private readonly IConfiguration _configuration;
+        private readonly IConfiguration _configuration;
 
         public Reseñas(IConfiguration configuration)
         {
