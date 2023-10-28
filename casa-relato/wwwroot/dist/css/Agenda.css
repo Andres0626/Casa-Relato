@@ -1,5 +1,5 @@
 body {
-    background-image: url("../../images/cafe3.png");
+    background-image: url("../../images/cafe.jpg");
     background-size: cover;
     color: #FFFFFF;
 }
@@ -41,25 +41,8 @@ body {
     text-indent: 2%;
 }
 
-.Fondo1 {
-    background: #F5CBA7;
-    opacity: 2;
-}
-
-.Fondo2 {
-    background: #59260b;
-    opacity: 2;
-}
-
-.Fondo3 {
-    background: white;
-    opacity: 2;
-}
-
-.fondo4 {
-    background-color: gray;
-    border-style: solid;
-    opacity: 0.2;
+.Fondo1, .Fondo2, .Fondo3, .fondo4 {
+    background-color: rgba(245, 203, 167, 0.9); /* Cambia el color de fondo y la opacidad seg�n tus preferencias */
 }
 
 .input-form {
@@ -70,4 +53,41 @@ body {
     border: none;
     border-bottom: 1px solid #CACFD2;
     text-align: left;
+}
+.modala {
+    color: #000000;
+    font-size: medium;
+    text-indent: 2%;
+}
+.custom-label {
+    color: #000000; /* Cambia el color del texto a negro o el que desees */
+}
+/* Agrega estos estilos para la tabla de horarios */
+.TablaHorarios {
+    width: 60%; /* Ajusta el ancho de la tabla según tus preferencias */
+    margin: 0 auto; /* Centra la tabla horizontalmente en el contenedor */
+    border-collapse: collapse;
+    font-size: 18px;
+}
+
+.TablaHorarios td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #000; /* Borde de las celdas */
+}
+
+.TablaHorarios tr:nth-child(even) {
+    background-color: #895D0C;
+    opacity: 0.9; /* Color de fondo para filas pares */
+}
+
+.TablaHorarios tr:nth-child(odd) {
+    background-color: #895D0C; /* Color de fondo para filas impares */
+}
+
+.TablaHorarios th {
+    background-color: rgba(245, 203, 167, 0.9); /* Color de fondo para encabezados */
+    color: #000000;
+    font-weight: bold;
+    border: 1px solid #000; /* Borde de los encabezados */
 }
