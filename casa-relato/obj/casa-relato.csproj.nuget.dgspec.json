@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\Casa-Relato\\casa-relato\\casa-relato.csproj": {}
   },
   "projects": {
@@ -12,9 +13,27 @@
         "projectPath": "D:\\Casa-Relato\\casa-relato\\casa-relato.csproj",
         "packagesPath": "C:\\Users\\natal\\.nuget\\packages\\",
         "outputPath": "D:\\Casa-Relato\\casa-relato\\obj\\",
+=======
+    "C:\\Users\\usuario\\Desktop\\Trabajos\\GitHub\\CR\\Casa-Relato\\casa-relato\\casa-relato.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\usuario\\Desktop\\Trabajos\\GitHub\\CR\\Casa-Relato\\casa-relato\\casa-relato.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\Trabajos\\GitHub\\CR\\Casa-Relato\\casa-relato\\casa-relato.csproj",
+        "projectName": "casa-relato",
+        "projectPath": "C:\\Users\\usuario\\Desktop\\Trabajos\\GitHub\\CR\\Casa-Relato\\casa-relato\\casa-relato.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\usuario\\Desktop\\Trabajos\\GitHub\\CR\\Casa-Relato\\casa-relato\\obj\\",
+>>>>>>> 5e7a6f8d29c693d40126d5e0b2ac2c0c24099e8a
         "projectStyle": "PackageReference",
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\natal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> 5e7a6f8d29c693d40126d5e0b2ac2c0c24099e8a
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +41,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -83,7 +103,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.317\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+>>>>>>> 5e7a6f8d29c693d40126d5e0b2ac2c0c24099e8a
         }
       }
     }
