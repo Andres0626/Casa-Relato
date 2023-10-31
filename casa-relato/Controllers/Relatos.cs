@@ -21,7 +21,6 @@ namespace casa_relato.Controllers
             {
 
 
-
                 string Connection = _configuration.GetConnectionString("ConnectionStrings");
                 var Relatos = new List<RelatosModel>();
 
@@ -37,7 +36,6 @@ namespace casa_relato.Controllers
                         {
                             while (reader.Read())
                             {
-
                                 var relatos = new RelatosModel
                                 {
                                     IdRelato = (int)reader["IdRelato"],
@@ -45,7 +43,7 @@ namespace casa_relato.Controllers
                                     Autor = (string)reader["Autor"],
                                     Contenido = (string)reader["Contenido"],
                                     Vistas = (int)reader["Vistas"],
-                                    Megusta = (int)reader["Me_Gusta"]
+                                    Megusta = (int)reader["Me_Gusta"] 
 
                                 };
 
@@ -123,6 +121,40 @@ namespace casa_relato.Controllers
                 using (SqlConnection connection = new SqlConnection(connectionString))
                 {
                     string commandText = @"UPDATE [dbo].Relatos SET [Vistas] = [Vistas] + 1 WHERE IdRelato = @IdRelato";
+
+                    using (SqlCommand cmd = new SqlCommand(commandText, connection))
+                    {
+                        cmd.Parameters.AddWithValue("@IdRelato", id_relato);
+
+                        connection.Open();
+                        cmd.ExecuteNonQuery();
+                    }
+                }
+
+                return RedirectToAction("Index");
+
+            }
+            catch (Exception ex)
+            {
+
+                return View("Error" + ex);
+
+            }
+        }
+
+
+        [HttpPost]
+        public ActionResult AgregarMegusta(
+            int id_relato)
+        {
+            try
+            {
+
+                string connectionString = _configuration.GetConnectionString("ConnectionStrings");
+
+                using (SqlConnection connection = new SqlConnection(connectionString))
+                {
+                    string commandText = @"UPDATE [dbo].Relatos SET [Me_Gusta] = [Me_Gusta] + 1 WHERE IdRelato = @IdRelato";
 
                     using (SqlCommand cmd = new SqlCommand(commandText, connection))
                     {

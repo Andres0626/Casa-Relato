@@ -1,43 +1,60 @@
 ﻿@using casa_relato.Models
 @model List<AliadosModel>
-<br>
-<br>
-<br>
-<br>
-<div class="container">
-    <h2 class="text-center mt-4 mb-4">Aliados</h2>
-    <div class="row">
-        @foreach (var aliados in Model)
-        {
-        <div class="col-md-6">
-            <div class="card bg-white text-black border-0">
-@*                     <img src="@aliados.ImagenAliado" class="card-img-top" alt=""> *@
-             <img src="~/images/Aliados.jpg" class="card-img-top" alt="">
-                <div class="card-body">
-                    <h5 class="card-title">@aliados.NombreAliado</h5>
-                    <p class="card-text">@aliados.DescripcionAliado</p>
-                </div>
-            </div>
-        </div>
-
-        }
+<link rel="stylesheet" type="text/css" href="../css/Aliados.css">
+<br><br>
+<h2 class="text-center mt-4 mb-4">Aliados</h2>
+<div class="row mb-5">
+    <div class="col-2">
+        <button type="button" class="btn-casa-relato" data-bs-toggle="modal" data-bs-target="#modalNuevo"><i class="fa-solid fa-plus"></i> Agregar</button>
     </div>
 </div>
+<br>
+<section class="articles">
+    @foreach (var aliados in Model)
+    {
+        <article>
+            <div class="article-wrapper">
+                <figure>
+                    @if (@aliados.ImagenAliado == "")
+                    {
+                        <img src="~/images/aliados_default.jpg" class="card-img-top" alt="Imagen de referencia">
+                    }
+                    else
+                    {
+                        <img src="~/images/@aliados.ImagenAliado" class="card-img-top" alt="Imagen de referencia">
+                    }
+                </figure>
+                <div class="article-body">
+                    <h2>@aliados.NombreAliado</h2>
+                    <p>
+                        @aliados.DescripcionAliado
+                    </p>
+                    <a href="#" class="read-more">
+                        Contactar <span class="sr-only">about this is some title</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 20 20" fill="currentColor">
+                            <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </article>
+    }
+</section>
 
 <style>
-.card {
-    border: 1px solid #F77F00;
-}
+    .card {
+        border: 1px solid #F77F00;
+    }
 
-.card:hover {
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-}
+        .card:hover {
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
 
-.card-title {
-    color: #F77F00;
-}
+    .card-title {
+        color: #F77F00;
+    }
 
-.h2, h2{
+    .h2, h2 {
         color: #F77F00;
     }
 

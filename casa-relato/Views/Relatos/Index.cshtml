@@ -19,7 +19,7 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <p style="margin-top: 2em;">
+                <p class="introduccion">
                     Nuestra comunidad se une para compartir las historias que han sido transmitidas de generación en generación,
                     y también damos la bienvenida a colaboradores apasionados que desean añadir sus propios capítulos a esta crónica
                     en constante crecimiento. Juntos, construimos un archivo digital que rinde homenaje a los momentos,
@@ -31,17 +31,31 @@
             <div class="row">
                 @foreach (var relatos in Model)
                 {
-                    <div class="col-4">
-                        <div class="caja-rlt caja-relato-@relatos.IdRelato shadow" onclick="expandir(@relatos.IdRelato); guardarVista(@relatos.IdRelato)">
-                            <p class="titulo-relato">@relatos.Titulo</p>
-                            <span class="autor">@relatos.Autor</span>
-                            <p class="cuerpo-rlt cuerpo-relato-@relatos.IdRelato">@relatos.Contenido</p>
-                            <div class="row">
-                                <div class="col-1"><i class="fa-solid fa-eye"></i></div>
-                                <div class="col-1">@relatos.Vistas</div>
-                                <div class="col-1"><a href="#"><i class="fa-solid fa-heart" style="color:#F77F00"></i></a></div> <!-- Conteo para los likes-->
-                                <div class="col-1">@relatos.Megusta</div>
+                    <div class="col-12 col-md-4">
+                            <div class="caja-rlt caja-relato-@relatos.IdRelato shadow">
+                                <p class="titulo-relato">@relatos.Titulo</p>
+                                <span class="autor">@relatos.Autor</span>
+                                <p class="cuerpo-rlt cuerpo-relato-@relatos.IdRelato">@relatos.Contenido</p>
+                                <div class="row">
+                                <div class="col-12"><a href="#popup-@relatos.IdRelato" class="link-casa-relato" onclick="guardarVista(@relatos.IdRelato)">Leer <i class="fa-solid fa-arrow-right"></i></a></div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-1"><i class="fa-solid fa-eye"></i></div>
+                                    <div class="col-1">@relatos.Vistas</div>
+                                <div class="col-1"><a href="#"><i class="fa-solid fa-heart" style="color:#F77F00" onclick="guardarMeGusta(@relatos.IdRelato)"></i></a></div> <!-- Conteo para los likes-->
+                                    <div class="col-1">@relatos.Megusta</div>
+                                </div>
                             </div>
+                    </div>
+
+                    <div class="popup" id="popup-@relatos.IdRelato">
+                        <div class="popup__content">
+                            <h2 class="heading-secondary text-center">@relatos.Titulo</h2>
+                            <h3 class="heading-tertiary">@relatos.Autor</h3>
+                            <p class="popup__text">
+                                @relatos.Contenido
+                            </p>
+                            <a href="#" class="button" onclick="reload()">Cerrar</a>
                         </div>
                     </div>
                 }
@@ -83,11 +97,6 @@
     </div>
 
     <script>
-        function expandir(num) {
-            document.querySelector('.caja-relato-'+num).classList.toggle('caja-expand');
-            document.querySelector('.cuerpo-relato-'+num).classList.toggle('cuerpo-expand');
-        }
-
         function guardarVista(id_relato) {
             var datos = {
                 id_relato: id_relato,
@@ -104,6 +113,28 @@
                     console.error(error);
                 }
             });
+        }
+
+        function guardarMeGusta(id_relato) {
+            var datos = {
+                id_relato: id_relato,
+            };
+
+            $.ajax({
+                url: '/Relatos/AgregarMegusta/',
+                type: 'POST',
+                data: datos,
+                success: function (result) {
+                    reload();
+                },
+                error: function (error) {
+                    console.error(error);
+                }
+            });
+        }
+
+        function reload() {
+            location.href = '/Relatos/Index';
         }
             
     </script>
