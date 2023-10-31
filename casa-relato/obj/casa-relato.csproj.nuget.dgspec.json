@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\casa-relato.csproj": {}
+    "C:\\Users\\USUARIO\\OneDrive\\Documentos\\VS2019 CasaRelato\\casa-relato\\casa-relato.csproj": {}
   },
   "projects": {
-    "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\casa-relato.csproj": {
+    "C:\\Users\\USUARIO\\OneDrive\\Documentos\\VS2019 CasaRelato\\casa-relato\\casa-relato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\casa-relato.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\VS2019 CasaRelato\\casa-relato\\casa-relato.csproj",
         "projectName": "casa-relato",
-        "projectPath": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\casa-relato.csproj",
-        "packagesPath": "C:\\Users\\0626g\\.nuget\\packages\\",
-        "outputPath": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\VS2019 CasaRelato\\casa-relato\\casa-relato.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\VS2019 CasaRelato\\casa-relato\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\0626g\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
