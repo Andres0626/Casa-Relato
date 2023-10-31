@@ -5,18 +5,21 @@
 <body style="background-color: white; margin-top: 8em;">
     <div class="container">
         <div class="row">
-            <div class="col-12">
+            <div class="col-10">
                 <i class="fa-regular fa-comments"></i> <h2>Relatos que perduran </h2>
+            </div>
+            <div class="col-2">
+                <button type="button" class="btn-casa-relato" data-bs-toggle="modal" data-bs-target="#modalNuevoRelato"><i class="fa-solid fa-plus"></i> Agregar</button>
             </div>
         </div>
         <div class="row">
             <div class="col-12" style="height: 22%">
-                <img src="../images/portada-relatos.jpeg" class="imagen-portada"/>
+                <img src="../images/portada-relatos.png" class="imagen-portada"/>
             </div>
         </div>
         <div class="row">
             <div class="col-12">
-                <p style="margin-top: 2em;">
+                <p class="introduccion">
                     Nuestra comunidad se une para compartir las historias que han sido transmitidas de generación en generación,
                     y también damos la bienvenida a colaboradores apasionados que desean añadir sus propios capítulos a esta crónica
                     en constante crecimiento. Juntos, construimos un archivo digital que rinde homenaje a los momentos,
@@ -28,27 +31,110 @@
             <div class="row">
                 @foreach (var relatos in Model)
                 {
-                    <div class="col-4">
-                        <div class="caja-relato-1 shadow" onclick="expandir(1)">
-                            <p class="titulo-relato">@relatos.Titulo</p>
-                            <span class="autor">@relatos.Autor</span>
-                            <p class="cuerpo-relato-1">@relatos.Contenido</p>
-                            <div class="row">
-                                <div class="col-1"><i class="fa-solid fa-eye"></i></div>
-                                <div class="col-1">@relatos.Vistas</div>
-                                <div class="col-1"><a href="#"><i class="fa-solid fa-heart" style="color:#F77F00"></i></a></div> <!-- Conteo para los likes-->
-                                <div class="col-1">@relatos.Megusta</div>
+                    <div class="col-12 col-md-4">
+                            <div class="caja-rlt caja-relato-@relatos.IdRelato shadow">
+                                <p class="titulo-relato">@relatos.Titulo</p>
+                                <span class="autor">@relatos.Autor</span>
+                                <p class="cuerpo-rlt cuerpo-relato-@relatos.IdRelato">@relatos.Contenido</p>
+                                <div class="row">
+                                <div class="col-12"><a href="#popup-@relatos.IdRelato" class="link-casa-relato" onclick="guardarVista(@relatos.IdRelato)">Leer <i class="fa-solid fa-arrow-right"></i></a></div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-1"><i class="fa-solid fa-eye"></i></div>
+                                    <div class="col-1">@relatos.Vistas</div>
+                                <div class="col-1"><a href="#"><i class="fa-solid fa-heart" style="color:#F77F00" onclick="guardarMeGusta(@relatos.IdRelato)"></i></a></div> <!-- Conteo para los likes-->
+                                    <div class="col-1">@relatos.Megusta</div>
+                                </div>
                             </div>
+                    </div>
+
+                    <div class="popup" id="popup-@relatos.IdRelato">
+                        <div class="popup__content">
+                            <h2 class="heading-secondary text-center">@relatos.Titulo</h2>
+                            <h3 class="heading-tertiary">@relatos.Autor</h3>
+                            <p class="popup__text">
+                                @relatos.Contenido
+                            </p>
+                            <a href="#" class="button" onclick="reload()">Cerrar</a>
                         </div>
                     </div>
                 }
             </div>
         </div>
     </div>
+
+    <div class="modal fade" id="modalNuevoRelato" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="exampleModalLabel" style="font-weight:bold">Crear nuevo relato</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <form method="post" asp-action="InsertRelato" asp-controller="Relatos">
+                <div class="modal-body">
+                    
+                        <div class="mb-3">
+                            <label for="titulo" class="form-label">Título</label>
+                            <input type="text" class="form-control" id="titulo" name="titulo" autocomplete="off">
+                        </div>
+                        <div class="mb-3">
+                            <label for="autor" class="form-label">Autor</label>
+                            <input type="text" class="form-control" id="autor" name="autor">
+                        </div>
+                        <div class="mb-3">
+                            <label for="contenido" class="form-label">Contenido</label>
+                            <textarea class="form-control" id="contenido" name="contenido" rows="3"></textarea>
+                        </div>
+                    
+                </div>
+                <div class="modal-footer">
+                    <button type ="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                    <button type="submit" class="btn-casa-relato">Guardar</button>
+                </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
     <script>
-        function expandir(num) {
-            document.querySelector('.caja-relato-'+num).classList.toggle('caja-expand');
-            document.querySelector('.cuerpo-relato-'+num).classList.toggle('cuerpo-expand');
+        function guardarVista(id_relato) {
+            var datos = {
+                id_relato: id_relato,
+            };
+
+            $.ajax({
+                url: '/Relatos/AgregarVista/',
+                type: 'POST',
+                data: datos,
+                success: function (result) {
+                    //location.reload();
+                },
+                error: function (error) {
+                    console.error(error);
+                }
+            });
+        }
+
+        function guardarMeGusta(id_relato) {
+            var datos = {
+                id_relato: id_relato,
+            };
+
+            $.ajax({
+                url: '/Relatos/AgregarMegusta/',
+                type: 'POST',
+                data: datos,
+                success: function (result) {
+                    reload();
+                },
+                error: function (error) {
+                    console.error(error);
+                }
+            });
+        }
+
+        function reload() {
+            location.href = '/Relatos/Index';
         }
             
     </script>
