@@ -1,13 +1,17 @@
 ﻿@using casa_relato.Models
+@using casa_relato.Common
 @model List<AliadosModel>
 <link rel="stylesheet" type="text/css" href="../css/Aliados.css">
 <br><br>
 <h2 class="text-center mt-4 mb-4">Aliados</h2>
-<div class="row mb-5">
-    <div class="col-2">
-        <button type="button" class="btn-casa-relato" data-bs-toggle="modal" data-bs-target="#modalNuevo"><i class="fa-solid fa-plus"></i> Agregar</button>
+@if (CommonUtils.Success)
+{
+    <div class="row mb-5">
+        <div class="col-2">
+            <button type="button" class="btn-casa-relato" data-bs-toggle="modal" data-bs-target="#modalNuevo"><i class="fa-solid fa-plus"></i> Agregar</button>
+        </div>
     </div>
-</div>
+}
 <br>
 <section class="articles">
     @foreach (var aliados in Model)
