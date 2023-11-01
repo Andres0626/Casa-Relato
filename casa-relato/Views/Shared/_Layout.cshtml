@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@using casa_relato.Common;
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -98,7 +99,16 @@
                     <li><a href="~/Reseñas/Index">Reseñas</a></li>
                     <li><a href="~/Aliados/Index">Aliados</a></li>
                     <li><a href="~/contactanos/Index">Contáctanos</a></li>
-                    <li><a class="btn-casa-relato" href="~/Iniciar_Sesion/Index">Iniciar sesión</a></li>
+                    @if (CommonUtils.Success)
+                    {
+                        <li><a class="btn-casa-relato" href="~/Iniciar_Sesion/CerrarSesion">"Cerrar Sesión</a></li>
+                    }
+                    else
+                    {
+
+                        <li><a class="btn-casa-relato" href="~/Iniciar_Sesion/Index">Iniciar sesión</a></li>
+                    }
+                    
 
                 </ul>
                 <a href="/">

@@ -19,215 +19,130 @@
                 <div class="col-12">
                     <h1 class="Titulo"> Agenda de Casa Relato</h1>
 
-<hr>
-<div class=Fondo3>
-    <h1 class="Titulo"> Horarios de atención</h1>
-    <center>
-        <p> <img src="../images/Horario.jpg"></p>
-        <p>Imagen de referencia</p>
-    </center>
-    <div class=row>
-        <div class="col-12" class=Fondo2>
-            <h2 class="Titulo2"></h2>
-        </div>
-<<<<<<< HEAD
-
-        <div class = "Articulo">
-            <img src="../images/slide-2.jpg" width="100" height="100">
-            <div>
-                <h2 class="Titulo2">Noche de relatos</h2>
-                <p class="Texto">Los participantes contaran sus propias historias, poemas o cuentos.</p>
-                <p class = "Fecha"> 018/09/2023 20:00</p>
-            </div>
-        </div>
-        <div class = "Articulo">
-            <img src="../images/slide-3.jpg" width="100" height="100">
-            <div>
-                <h2 class="Titulo2">Acampada del Quitasol</h2>
-                <p class="Texto">Entraremos en una gran excursion donde visitaremos el cerro del Quitasol, miraremos la cultura que hay detras y la importancia, con una acampada!</p>
-                <p class = "Fecha"> 30/09/2023 13:00</p>
-            </div>
-        </div>
-        <div class="card" style="width: 75%; margin: 0 auto">
-            <div class ="Fondo1"><center>
-                <div class="card-body">
-                    <a href="#" id="abrirModalBtn" class="btn btn-primary">Añadir evento</a>
-            </center>
-            </div>
-        </div>
-            <div class="modal fade" id="miModal" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <h5 class="modal-title" id="modalLabel">Tipo de evento</h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
-                        <div class="modal-body">
-                            <center>
-                            <p>Detalles del evento...</p>
-                            </center>
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col">
-                                        <div class="group">
-                                            <label class="label-form">Imagen</label>
-                                            <input class="input-form" type="image" required>
-                                            <span class="highlight"></span>
-                                            <span class="bar"></span>
-                                        </div>
-                                    <div class="col">
-                                        <div class="group">
-                                            <label class="label-form">Titulo</label>
-                                            <input class="input-form" type="text" required>
-                                            <span class="highlight"></span>
-                                            <span class="bar"></span>
-                                        </div>
-                                        <div class="col">
-                                            <div class="group">
-                                                <label class="label-form">Descripción</label>
-                                                <input class="input-form" type="text" required>
-                                                <span class="highlight"></span>
-                                                <span class="bar"></span>
-                                            </div>
-                                            <div class="col">
-                                                <div class="group">
-                                                    <label class="label-form">Fecha</label>
-                                                    <input class="input-form" type="date" required>
-                                                    <span class="highlight"></span>
-                                                    <span class="bar"></span>
-                                                </div>              
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" id="cerrarModalBtn" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
-                            <button type="button" class="btn btn-primary">Guardar Cambios</button>
-                        </div>
+                    <hr>
+                    <div class="Fondo3">
+                        <h1 class="Titulo"> Horarios de atención</h1>
+                        <table class="TablaHorarios">
+                            <tr>
+                                <td><strong>Domingo a jueves</strong></td>
+                                <td>4:00 pm - 11:00 pm</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Viernes y sábado</strong></td>
+                                <td>4:00 pm - 1:00 am</td>
+                            </tr>
+                        </table>
                     </div>
-                </div>
-            </div>
-        <script src="dist/js/inicio.js"></script>
-        
-        <script>
-            // Obtén el botón y el modal por su ID
-            var abrirModalBtn = document.getElementById('abrirModalBtn');
-        
-            abrirModalBtn.addEventListener('click', function () {
-                $('#miModal').modal('show');
-            });
+                    <div class="row">
+                        <div class="col-12" class=Fondo2>
+                            <h2 class="Titulo2"></h2>
+                        </div>
+                        <hr>
+                        <div class=Fondo1>
+                            <h2 class=Titulo> ¡¡¡Agenda de proximos eventos ofrecidos por Casa Relato!!! </h2>
+                            <div class="Articulo">
+                                <img src="../images/slide-1.jpg" width="100" height="100">
+                                <div>
+                                    <h2 class=Titulo2>Recorrido ciudadano</h2>
+                                    <p class=Texto>Daremos un recorrido a travez de ciertas partes del parque de bello y sus alrededores, contando la historia de estos.</p>
+                                    <p class="Fecha"> 15/09/2023 11:30</p>
+                                </div>
+                            </div>
 
-            $('#cerrarModalBtn').on('click', function () {
-             $('#miModal').modal('hide');
-            });
-        </script>
-=======
-        <hr>
-        <div class=Fondo1>
-            <h2 class=Titulo> ¡¡¡Agenda de proximos eventos ofrecidos por Casa Relato!!! </h2>
-            <div class="Articulo">
-                <img src="../images/slide-1.jpg" width="100" height="100">
-                <div>
-                    <h2 class=Titulo2>Recorrido ciudadano</h2>
-                    <p class=Texto>Daremos un recorrido a travez de ciertas partes del parque de bello y sus alrededores, contando la historia de estos.</p>
-                    <p class="Fecha"> 15/09/2023 11:30</p>
-                </div>
-            </div>
+                            <div class="Articulo">
+                                <img src="../images/slide-2.jpg" width="100" height="100">
+                                <div>
+                                    <h2 class="Titulo2">Noche de relatos</h2>
+                                    <p class="Texto">Los participantes contaran sus propias historias, poemas o cuentos.</p>
+                                    <p class="Fecha"> 018/09/2023 20:00</p>
+                                </div>
+                            </div>
+                            <div class="Articulo">
+                                <img src="../images/slide-3.jpg" width="100" height="100">
+                                <div>
+                                    <h2 class="Titulo2">Acampada del Quitasol</h2>
+                                    <p class="Texto">Entraremos en una gran excursion donde visitaremos el cerro del Quitasol, miraremos la cultura que hay detras y la importancia, con una acampada!</p>
+                                    <p class="Fecha"> 30/09/2023 13:00</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 75%; margin: 0 auto">
+                            <div class="Fondo1">
+                                <center>
+                                    <div class="card-body">
+                                        <a href="#" id="abrirModalBtn" class="btn btn-primary">Añadir evento</a>
+                                </center>
+                            </div>
+                        </div>
+                        <div class="Fondo5">
+                            <div class="modal fade" id="miModal" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="modalLabel">Tipo de evento</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <center>
+                                                <p>Detalles del evento...</p>
+                                            </center>
+                                            <div class="Fondo5">
+                                                <div class="container">
+                                                    <div class="row">
+                                                        <div class="col">
+                                                            <div class="group">
+                                                                <label class="label-form">Imagen</label>
+                                                                <input class="input-form" type="image" required>
+                                                                <span class="highlight"></span>
+                                                                <span class="bar"></span>
+                                                            </div>
+                                                            <div class="col">
+                                                                <div class="group">
+                                                                    <label class="label-form">Titulo</label>
+                                                                    <input class="input-form" type="text" required>
+                                                                    <span class="highlight"></span>
+                                                                    <span class="bar"></span>
+                                                                </div>
+                                                                <div class="col">
+                                                                    <div class="group">
+                                                                        <label class="label-form">Descripción</label>
+                                                                        <input class="input-form" type="text" required>
+                                                                        <span class="highlight"></span>
+                                                                        <span class="bar"></span>
+                                                                    </div>
+                                                                    <div class="col">
+                                                                        <div class="group">
+                                                                            <label class="label-form">Fecha</label>
+                                                                            <input class="input-form" type="date" required>
+                                                                            <span class="highlight"></span>
+                                                                            <span class="bar"></span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="modal-footer">
+                                                                        <button type="button" id="cerrarModalBtn" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                                                                        <button type="button" class="btn btn-primary">Guardar Cambios</button>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.min.js" integrity="sha384-Rx+T1VzGupg4BHQYs2gCW9It+akI2MM/mndMCy36UVfodzcJcF0GGLxZIzObiEfa" crossorigin="anonymous"></script>
+                                                    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+                                                    <script src="dist/js/inicio.js"></script>
 
-            <div class="Articulo">
-                <img src="../images/slide-2.jpg" width="100" height="100">
-                <div>
-                    <h2 class="Titulo2">Noche de relatos</h2>
-                    <p class="Texto">Los participantes contaran sus propias historias, poemas o cuentos.</p>
-                    <p class="Fecha"> 018/09/2023 20:00</p>
-                </div>
-            </div>
-            <div class="Articulo">
-                <img src="../images/slide-3.jpg" width="100" height="100">
-                <div>
-                    <h2 class="Titulo2">Acampada del Quitasol</h2>
-                    <p class="Texto">Entraremos en una gran excursion donde visitaremos el cerro del Quitasol, miraremos la cultura que hay detras y la importancia, con una acampada!</p>
-                    <p class="Fecha"> 30/09/2023 13:00</p>
-                </div>
-            </div>
-        </div>
-        <div class="card" style="width: 75%; margin: 0 auto">
-            <div class="Fondo1">
-                <center>
-                    <div class="card-body">
-                        <a href="#" id="abrirModalBtn" class="btn btn-primary">Añadir evento</a>
-                </center>
-            </div>
-        </div>
-        <div class="Fondo5">
-    <div class="modal fade" id="miModal" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
- <div class="modal-header">
-     <h5 class="modal-title" id="modalLabel">Tipo de evento</h5>
-     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-         <span aria-hidden="true">&times;</span>
-     </button>
- </div>
- <div class="modal-body">
-     <center>
-         <p>Detalles del evento...</p>
-     </center>
-     <div class="Fondo5">
-         <div class="container">
-   <div class="row">
-       <div class="col">
-           <div class="group">
-               <label class="label-form">Imagen</label>
-               <input class="input-form" type="image" required>
-               <span class="highlight"></span>
-               <span class="bar"></span>
-           </div>
-           <div class="col">
-               <div class="group">
-                   <label class="label-form">Titulo</label>
-                   <input class="input-form" type="text" required>
-                   <span class="highlight"></span>
-                   <span class="bar"></span>
-               </div>
-               <div class="col">
-                   <div class="group">
-                       <label class="label-form">Descripción</label>
-                       <input class="input-form" type="text" required>
-                       <span class="highlight"></span>
-                       <span class="bar"></span>
-                   </div>
-                   <div class="col">
-                       <div class="group">
-                           <label class="label-form">Fecha</label>
-                           <input class="input-form" type="date" required>
-                           <span class="highlight"></span>
-                           <span class="bar"></span>
-                       </div>
-                   </div>
-                   <div class="modal-footer">
-                       <button type="button" id="cerrarModalBtn" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
-                       <button type="button" class="btn btn-primary">Guardar Cambios</button>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </div>
-   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.min.js" integrity="sha384-Rx+T1VzGupg4BHQYs2gCW9It+akI2MM/mndMCy36UVfodzcJcF0GGLxZIzObiEfa" crossorigin="anonymous"></script>
-   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-   <script src="dist/js/inicio.js"></script>
+                                                    <script>
+                                                        // Obtén el botón y el modal por su ID
+                                                        var abrirModalBtn = document.getElementById('abrirModalBtn');
 
-   <script>
-       // Obtén el botón y el modal por su ID
-       var abrirModalBtn = document.getElementById('abrirModalBtn');
+                                                        abrirModalBtn.addEventListener('click', function () {
+                                                            $('#miModal').modal('show');
+                                                        });
 
-       abrirModalBtn.addEventListener('click', function () {
-           $('#miModal').modal('show');
-       });
-
-       $('#cerrarModalBtn').on('click', function () {
-           $('#miModal').modal('hide');
-               });
-                                              </script>
->>>>>>> 42449e6b55edd8dd190deb6d95c864758bb04c31
+                                                        $('#cerrarModalBtn').on('click', function () {
+                                                            $('#miModal').modal('hide');
+                                                        });
+                                                    </script>
 </body>
 </html>

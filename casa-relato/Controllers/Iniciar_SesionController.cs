@@ -1,4 +1,6 @@
 ﻿
+using casa_relato.Common;
+using casa_relato.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -9,53 +11,59 @@ namespace casa_relato.Controllers
     public class Iniciar_SesionController : Controller
     {
 
-        public ActionResult Index()
-        {
-            return View();
-        }
-
         private readonly IConfiguration _configuration;
 
         public Iniciar_SesionController(IConfiguration configuration)
         {
             _configuration = configuration;
+
         }
-        public IActionResult OnPost(string username, string password)
+
+        public IActionResult Index()
+        {
+            return View();
+        }
+        public IActionResult CerrarSesion()
+        {
+            CommonUtils.SetSuccess(false);
+            return View("Index");
+        }
+
+        [HttpPost]
+        public IActionResult inicio(string username, string password)
         {
             try
             {
                 string Connection = _configuration.GetConnectionString("ConnectionStrings");
-                using (var connection = new SqlConnection(Connection))
+
+                using (SqlConnection connections = new SqlConnection(Connection))
                 {
-                    connection.Open();
+                    string command = $@"SELECT * FROM Users WHERE Username = @Username AND Password = @Password";
 
-                    string query = "SELECT * FROM Users WHERE Username = @Username AND Password = @Password";
-                    using (var command = new SqlCommand(query, connection))
+                    using (SqlCommand cmd = new SqlCommand(command, connections))
                     {
-                        command.Parameters.Add(new SqlParameter("@Username", username));
-                        command.Parameters.Add(new SqlParameter("@Password", password));
+                        cmd.Parameters.AddWithValue("@Username", username);
+                        cmd.Parameters.AddWithValue("@Password", password);
 
-                        using (var reader = command.ExecuteReader())
+                        connections.Open();
+
+                        using (SqlDataReader reader = cmd.ExecuteReader())
                         {
-                            if (reader.HasRows)
+                            if (reader.Read())
                             {
-                                return View();
-                            }
-                            else
-                            {
-                                return View(reader);
+                                CommonUtils.SetSuccess(true);
+                                return RedirectToAction("index");
                             }
                         }
                     }
                 }
-
-                }catch (Exception ex) 
-            
-            {
-                
-
+                return View();
             }
-            return View();
+            catch (Exception ex)
+            {
+                return View();
+            }
         }
+
     }
 }
