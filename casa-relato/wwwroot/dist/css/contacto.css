@@ -1,222 +1,10 @@
-body {
-    overflow-x: hidden;
-    margin: 0;
-    padding: 0;
-    background-color: #FFF;
-}
-
-.container {
-    max-width: initial !important;
-}
-
-.contenedor-primario {
-    background: #F9F9FB;
-    margin-top: 5em;
-    padding: 3em 3em;
-    height: 100vh;
-    box-sizing: border-box !important;
-}
-
-.bloque-contacto {
-    border-radius: 10px;
-    margin: 4vw 16vw;
-    width: 63vw;
-    height: 62vh;
-    background-color: #FFF;
-    padding: 10px;
-}
-
-.titulo {
-    text-align: center;
-    color: #010241;
-    font-weight: bold;
-}
-
-.subtitulo {
-    text-align: center;
-    color: #CACFD2;
-}
-
-.bloque-datos {
-    height: 59vh;
-    position: relative; /* Necesario para posicionar el pseudo-elemento */
-    padding: 30px;
-    border-radius: 10px;
-}
-
-.bloque-datos::before {
-    content: "";
-    background-image: url(../../images/img-contacto.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    opacity: 0.2; /* Aquí ajustas la opacidad de la imagen de fondo */
-    position: absolute; /* Permite que el pseudo-elemento cubra todo el contenedor */
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    border-radius: 10px; /* Alinea el borde con el contenedor principal */
-}
-
-.bloque-titulo-datos {
-    color: #FFF;
-}
-
-.titulo-datos {
-    font-size: 20px;
-}
-
-.subtitulo-datos {
-    margin-top: 10px;
-    font-size: 14px;
-}
-
-.icono-contacto {
-    color: #59260b;
-}
-
-.icono-redes {
-    color: #b5e2fa;
-}
-
-.texto-contacto {}
-
-.bloque-formulario {
-    padding: 50px 20px;
-}
-
-/* form starting stylings ------------------------------- */
-.group {
-    position: relative;
-    margin-bottom: 25px;
-}
-
-.input-form {
-    font-size: 18px;
-    padding: 10px 10px 10px 5px;
-    display: block;
-    width: 14em;
-    border: none;
-    border-bottom: 1px solid #CACFD2;
-}
-
-.input-form:focus {
-    outline: none;
-}
-
-.label-form {
-    color: #F77F00;
-    font-size: 16px;
-    font-weight: normal;
-    position: absolute;
-    pointer-events: none;
-    left: 5px;
-    top: 10px;
-    transition: 0.2s ease all;
-    -moz-transition: 0.2s ease all;
-    -webkit-transition: 0.2s ease all;
-}
-
-.label-mensaje {
-    color: #F77F00;
-    font-size: 15px;
-}
-
-/* active state */
-.input-form:focus~.label-form,
-.input-form:valid~.label-form {
-    top: -20px;
-    font-size: 14px;
-    color: #F77F00;
-}
-
-.bar {
-    position: relative;
-    display: block;
-    width: 16em;
-}
-
-.bar:before,
-.bar:after {
-    content: '';
-    height: 2px;
-    width: 0;
-    bottom: 1px;
-    position: absolute;
-    background: #F77F00;
-    transition: 0.2s ease all;
-    -moz-transition: 0.2s ease all;
-    -webkit-transition: 0.2s ease all;
-}
-
-.bar:before {
-    left: 50%;
-}
-
-.bar:after {
-    right: 50%;
-}
-
-.input-form:focus~.bar:before,
-.input-form:focus~.bar:after {
-    width: 50%;
-}
-
-.highlight {
-    position: absolute;
-    height: 60%;
-    width: 100px;
-    top: 25%;
-    left: 0;
-    pointer-events: none;
-    opacity: 0.5;
-}
-
-/* active state */
-.input-form:focus~.highlight {
-    -webkit-animation: inputHighlighter 0.3s ease;
-    -moz-animation: inputHighlighter 0.3s ease;
-    animation: inputHighlighter 0.3s ease;
-}
-
-@-webkit-keyframes inputHighlighter {
-    from {
-        background: #F77F00;
-    }
-
-    to {
-        width: 0;
-        background: transparent;
-    }
-}
-
-@-moz-keyframes inputHighlighter {
-    from {
-        background: #F77F00;
-    }
-
-    to {
-        width: 0;
-        background: transparent;
-    }
-}
-
-@keyframes inputHighlighter {
-    from {
-        background: #F77F00;
-    }
-
-    to {
-        width: 0;
-        background: transparent;
-    }
-}
 * {
     box-sizing: border-box;
 }
 
 body {
-    background: beige;
+    background: #f9f9f9;
+    ;
     color: #fff;
     line-height: 1.6;
     font-family: 'Quicksand', sans-serif;
@@ -239,7 +27,7 @@ h1.logo {
     text-align: center; /* Centrar el texto */
     font-size: 3em;
     margin: 0 auto;
-    color: #40E0D0; /* Color turquesa suave (#40E0D0) */
+    color: #010241; /* Color turquesa suave */
 }
 
 
@@ -260,7 +48,7 @@ h1.logo {
     }
 
 .contact-form {
-    background: rgb(255, 133, 76);
+    background: #FFC78E;
 }
 
     .contact-form form {
@@ -290,7 +78,7 @@ h1.logo {
             background: none;
             outline: 0;
             color: #fff;
-            border-bottom: 1px solid #d63031;
+            border-bottom: 1px solid #d63031; /*linea del borde formularios*/
         }
 
         .contact-form form button {
@@ -308,6 +96,7 @@ h1.logo {
                 outline: 0;
             }
 
+/* CONTACT INFO */
 .contact-info {
     background-image: url('../../images/ImagenContactoss.jpg'); /* Cambia 'ruta-de-tu-imagen.jpg' a la ruta de tu imagen de fondo */
     background-size: cover;
@@ -316,12 +105,105 @@ h1.logo {
     padding: 20px;
 }
 
+
     .contact-info h4, .contact-info ul, .contact-info p {
         text-align: center;
         margin: 0 0 1rem 0;
     }
 
 /* LARGE SIZE */
+
+
+.social-icons a {
+    color: #fff; /* Cambiar color a blanco */
+    margin-right: 10px; /* Agregar un margen derecho para separar los iconos */
+    font-size: 24px; /* Tamaño de fuente (ajusta según sea necesario) */
+    text-decoration: none; /* Elimina el subrayado predeterminado de los enlaces */
+    transition: color 0.3s; /* Transición de color al pasar el mouse */
+}
+
+    .social-icons a:hover {
+        color: #FFFFB3; /* Cambia el color al pasar el mouse a negro */
+    }
+
+#ubiicacioonCR {
+    color: #f9f9f9;
+}
+/* Agregar una animación a los inputs enfocados */
+@keyframes inputFocus {
+    from {
+        border-color: #ccc;
+    }
+
+    to {
+        border-color: #4CAF50;
+    }
+}
+/* Agregar animación al input cuando está en foco */
+input:focus,
+textarea:focus {
+    border-color: #4CAF50; /* Cambiar el color del borde */
+    transition: border-color 0.3s ease-in-out; /* Agregar transición suave al cambio */
+}
+
+input.focus-animation,
+textarea.focus-animation {
+    animation: inputFocus 0.5s forwards;
+}
+
+/* Estilo base para el efecto de estela */
+.input-with-streak {
+    position: relative;
+    border: 1px solid #ccc;
+    transition: border-color 0.3s ease-in-out;
+}
+
+    /* Estilo del pseudo-elemento que representa la estela */
+    .input-with-streak::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        border: 1px solid transparent;
+        transition: border-color 0.3s ease-in-out;
+        pointer-events: none;
+    }
+
+
+h3 {
+    transition: color 0.3s ease-in-out;
+}
+
+    h3:hover {
+        color: #FFFFB3; /* Cambiar el color del texto al hacer hover */
+    }
+
+p {
+    transition: box-shadow 0.3s ease-in-out, color 0.3s ease-in-out;
+    padding: 10px;
+    display: inline-block; /* Para que el efecto se aplique al contenedor */
+    border-radius: 10px; /* Agrega bordes redondeados */
+}
+
+    p:hover {
+        color: #b10000; /* Cambia el color del texto al hacer hover */
+        box-shadow: 0 0 10px #FFA64D; /* Agrega una sombra alrededor del texto en hover */
+    }
+
+    p.no-hover-effect {
+        transition: none; /* Anula la transición en estos párrafos */
+        box-shadow: none; /* Anula la sombra */
+        color: #f9f9f9;
+    }
+
+.contact-title {
+    text-align: left; /* Alinear a la izquierda */
+    margin: 20px 0; /* Agregar margen para separación */
+    color: #010241;
+}
+
 @media(min-width: 700px) {
     body {
         padding: 0 4em;
@@ -341,16 +223,38 @@ h1.logo {
     .contact-info p {
         text-align: left;
     }
-}
 
-.social-icons a {
-    color: #fff; /* Cambiar color a blanco */
-    margin-right: 10px; /* Agregar un margen derecho para separar los iconos */
-    font-size: 24px; /* Tamaño de fuente (ajusta según sea necesario) */
-    text-decoration: none; /* Elimina el subrayado predeterminado de los enlaces */
-    transition: color 0.3s; /* Transición de color al pasar el mouse */
-}
-
-    .social-icons a:hover {
-        color: #000; /* Cambia el color al pasar el mouse a negro */
+    .logo-contact-title {
+        text-align: center; /* Centrar en pantallas más pequeñas */
+        margin: 20px 0; /* Puede ajustarse según el diseño */
+        color: #010241; /* Cambia el color del texto */
     }
+}
+
+/* CSS para pantallas más pequeñas (máximo 700px) */
+@media (max-width: 700px) {
+    .logo-contact-title {
+        text-align: center; /* Centrar en pantallas más pequeñas */
+        margin: 20px 0; /* Puede ajustarse según el diseño */
+        color: #010241; /* Cambia el color del texto */
+    }
+
+    /* Aplicar estilos al formulario para dispositivos más pequeños */
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+
+        /* ajustar el margen entre los párrafos del formulario */
+        form p {
+            margin-bottom: 10px;
+        }
+
+            /* anular el display flex para el botón dentro del formulario */
+            form p.block {
+                display: block;
+            }
+    h1.logo {
+        color: transparent;
+    }
+}

@@ -1,9 +1,8 @@
-﻿body {
+body {
     background-image: url("../../images/cafe.jpg");
     background-size: cover;
     color: #FFFFFF;
 }
-
 .Articulo {
     display: flex;
     align-items: center;
@@ -55,13 +54,11 @@
     border-bottom: 1px solid #CACFD2;
     text-align: left;
 }
-
 .modala {
     color: #000000;
     font-size: medium;
     text-indent: 2%;
 }
-
 .custom-label {
     color: #000000; /* Cambia el color del texto a negro o el que desees */
 }
@@ -73,24 +70,24 @@
     font-size: 18px;
 }
 
-    .TablaHorarios td {
-        padding: 10px;
-        text-align: center;
-        border: 1px solid #000; /* Borde de las celdas */
-    }
+.TablaHorarios td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #000; /* Borde de las celdas */
+}
 
-    .TablaHorarios tr:nth-child(even) {
-        background-color: #895D0C;
-        opacity: 0.9; /* Color de fondo para filas pares */
-    }
+.TablaHorarios tr:nth-child(even) {
+    background-color: #895D0C;
+    opacity: 0.9; /* Color de fondo para filas pares */
+}
 
-    .TablaHorarios tr:nth-child(odd) {
-        background-color: #895D0C; /* Color de fondo para filas impares */
-    }
+.TablaHorarios tr:nth-child(odd) {
+    background-color: #895D0C; /* Color de fondo para filas impares */
+}
 
-    .TablaHorarios th {
-        background-color: rgba(245, 203, 167, 0.9); /* Color de fondo para encabezados */
-        color: #000000;
-        font-weight: bold;
-        border: 1px solid #000; /* Borde de los encabezados */
-    }
+.TablaHorarios th {
+    background-color: rgba(245, 203, 167, 0.9); /* Color de fondo para encabezados */
+    color: #000000;
+    font-weight: bold;
+    border: 1px solid #000; /* Borde de los encabezados */
+}
