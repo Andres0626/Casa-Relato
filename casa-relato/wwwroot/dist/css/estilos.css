@@ -195,6 +195,11 @@
     width: 220px;
     height: 220px;
     object-fit: fill;
+    transition: transform 0.3s;
+}
+
+.img-bloque-3:hover {
+    transform: scale(1.1);
 }
 
 .txt-img-bloque-3 {
@@ -205,21 +210,6 @@
     z-index: 1;
     background: #00000075;
     padding: 0 15px;
-}
-
-.img1 {
-    right: 1183px;
-    top: 2650px;
-}
-
-.img2 {
-    right: 915px;
-    top: 2650px;
-}
-
-.img3 {
-    right: 595px;
-    top: 2650px;
 }
 
 footer {

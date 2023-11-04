@@ -4,8 +4,7 @@
 
 body {
     background: #f9f9f9;
-    ;
-    color: #fff;
+    color: #010241;
     line-height: 1.6;
     font-family: 'Quicksand', sans-serif;
     padding: 0 1.5em;
@@ -48,7 +47,7 @@ h1.logo {
     }
 
 .contact-form {
-    background: #FFC78E;
+    background: #FFFFFF;
 }
 
     .contact-form form {

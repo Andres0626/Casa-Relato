@@ -1,42 +1,41 @@
-﻿<!DOCTYPE html>
-@model List<casa_relato.Models.ReseñasModel>
-<html lang="en">
-<head>
-    <link rel="stylesheet" type="text/css" href="~/dist/css/referencias.css">
-</head>
+﻿@model List<casa_relato.Models.ReseñasModel>
+<link rel="stylesheet" type="text/css" href="../css/comentarios.css">
 <body>
-    <div class="container mt-5">
-        <div class="row">
-            <div class="col-6">
-                <h2>Deja tu comentario</h2>
-                <form id="comment-form" method="post" asp-action="InsertComment" asp-controller="Reseñas">
-                    <div class="form-group">
-                        <label for="username">Nombre de Usuario:</label>
-                        <input type="text" id="username" name="username" class="form-control" required>
+    <section class="mt-cr">
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-sm-5 col-md-6 col-12 pb-4">
+                    <h1>Comentarios</h1>
+                    @foreach (var comentario in Model)
+                    {
+                        
+                        <div class="@(comentario.ID % 2 == 0 ? "comment" : "darker") mt-4 text-justify float-left">
+                            <i class="@(comentario.ID % 2 == 0 ? "fa-regular fa-user" : "fa-solid fa-user")" style="width:20px; height:20px"></i>
+                        <h4 class="username">@comentario.UserName</h4>
+                        <span>- 20 October, 2018</span>
+                        <p class ="comentario">@comentario.Comentario</p>
                     </div>
-                    <div class="form-group">
-                        <label for="comment">Comentario:</label>
-                        <textarea id="comment" name="comment" rows="4" class="form-control" required></textarea>
-                    </div>
-                    <br>
-                    <button type="submit" class="btn btn-primary">Publicar Comentario</button>
-                </form>
-            </div>
-            <div class="col-6">
-                <h2>Comentarios</h2>
-                @foreach (var comentario in Model)
-                {
-                    <div class="card mb-3">
-                        <div class="card-body">
-                            <h5 class="card-title">@comentario.UserName</h5>
-                            <p class="card-text">@comentario.Comentario</p>
+                    }
+                </div>
+                <div class="col-lg-4 col-md-5 col-sm-4 offset-md-1 offset-sm-1 col-12 mt-4">
+                    
+                    <form id="algin-form" class="shadow" method="post" asp-action="InsertComment" asp-controller="Reseñas">
+                        <div class="form-group">
+                            <h4 class="title-form">Deja un comentario</h4>
+                            <label for="username">Nombre de usuario:</label>
+                            <input type="text" id="username" name="username" class="form-control" required>
                         </div>
-                    </div>
-                }
-                <!-- Agrega más comentarios aquí -->
+                        <div class="form-group">
+                            <label for="comment">Comentario:</label>
+                            <textarea id="comment" name="comment" rows="4" class="form-control" required></textarea>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" id="post" class="btn-casa-relato">Enviar</button>
+                        </div>
+                    </form>
+                </div>
             </div>
         </div>
-    </div>
+    </section>
 </body>
-</html>
 

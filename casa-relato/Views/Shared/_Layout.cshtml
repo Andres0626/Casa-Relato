@@ -12,6 +12,24 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.1/assets/owl.carousel.css">
+    <link rel="stylesheet" href="https://themes.audemedia.com/html/goodgrowth/css/owl.theme.default.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/3.0.1/iconfont/material-icons.min.css" rel="stylesheet">
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.8/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.min.js" integrity="sha384-Rx+T1VzGupg4BHQYs2gCW9It+akI2MM/mndMCy36UVfodzcJcF0GGLxZIzObiEfa" crossorigin="anonymous"></script>
+    <script src="~/dist/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/js/all.min.js" integrity="sha512-uKQ39gEGiyUJl4AI6L+ekBdGKpGw4xJ55+xyJG7YFlJokPNYegn9KwQ3P8A7aFQAUtUsAQHep+d/lrGqrbPIDQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="~/dist/js/inicio.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.1/owl.carousel.min.js"></script>
+    <script async src="//www.instagram.com/embed.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
 </head>
 <body>
     <header>
@@ -37,7 +55,7 @@
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
-                                        <a class="dropdown-item" href="/Views/Cafe_Cultural.cshtml">Inicio</a>
+                                        <a class="dropdown-item" href="/CafeCultural/Index">Inicio</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="~/Tienda/Index">Tienda</a>
@@ -51,7 +69,7 @@
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
-                                        <a class="dropdown-item" href="#">Inicio</a>
+                                        <a class="dropdown-item" href="~/DesarrolloHumano/Index">Inicio</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="~/Biblioteca/Index">Biblioteca</a>
@@ -65,10 +83,16 @@
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
-                                        <a class="dropdown-item" href="#">Inicio</a>
+                                        <a class="dropdown-item" href="~/IdentidadTerritorial/Index">Inicio</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="~/Relatos/Index">Relatos</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="~/Comuna2/Index">Comuna 2</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="~/Comuna3/Index">Comuna 3</a>
                                     </li>
                                 </ul>
                             </li>
@@ -79,7 +103,7 @@
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
-                                        <a class="dropdown-item" href="#">Inicio</a>
+                                        <a class="dropdown-item" href="~/GestionCultural/Index">Inicio</a>
                                     </li>
                                 </ul>
                             </li>
@@ -90,7 +114,7 @@
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
-                                        <a class="dropdown-item" href="#">Inicio</a>
+                                        <a class="dropdown-item" href="~/MovilizacionSocial/Index">Inicio</a>
                                     </li>
                                 </ul>
                             </li>
@@ -156,18 +180,5 @@
             </div>
         </div>
     </footer>
-
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.8/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.min.js" integrity="sha384-Rx+T1VzGupg4BHQYs2gCW9It+akI2MM/mndMCy36UVfodzcJcF0GGLxZIzObiEfa" crossorigin="anonymous"></script>
-    <script src="~/dist/bootstrap/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/js/all.min.js" integrity="sha512-uKQ39gEGiyUJl4AI6L+ekBdGKpGw4xJ55+xyJG7YFlJokPNYegn9KwQ3P8A7aFQAUtUsAQHep+d/lrGqrbPIDQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="~/dist/js/inicio.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
-    @await RenderSectionAsync("Scripts", required: false)
-
 </body>
 </html>
