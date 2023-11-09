@@ -1,44 +1,93 @@
+body {
+    background-image: url("../../images/cafe.jpg");
+    background-size: cover;
+    color: #FFFFFF;
+}
 .Articulo {
     display: flex;
     align-items: center;
-  }
+}
 
-  .imagen {
+.imagen {
     flex: 1;
     max-width: 50%;
-  }
+}
 
-  .Titulo{
-    color:#000000;
+.Titulo {
+    color: #000000;
     text-align: center;
     font-weight: bold;
     text-indent: 4%;
-  }
-  .Titulo2{
+}
+
+.Titulo2 {
     color: #000000;
     text-align: left;
     font-weight: bold;
     text-indent: 4%;
     font-size: larger;
-  }
-  .Texto{
-    color : #000000;
+}
+
+.Texto {
+    color: #000000;
     font-size: medium;
     text-align: center;
     text-indent: 2%;
-  }
+}
 
-  .Fecha {
+.Fecha {
     font-size: 14px;
     color: #895D0C;
     text-indent: 2%;
-  }
-  .Fondo1{
-    background: #F5CBA7;
-  }
-  .Fondo2{
-    background: #59260b;
-  }
-  .Fondo3{
-    background: white;
-  }
+}
+
+.Fondo1, .Fondo2, .Fondo3, .fondo4 {
+    background-color: rgba(245, 203, 167, 0.9); /* Cambia el color de fondo y la opacidad seg�n tus preferencias */
+}
+
+.input-form {
+    font-size: 18px;
+    padding: 10px 10px 10px 5px;
+    display: block;
+    width: 14em;
+    border: none;
+    border-bottom: 1px solid #CACFD2;
+    text-align: left;
+}
+.modala {
+    color: #000000;
+    font-size: medium;
+    text-indent: 2%;
+}
+.custom-label {
+    color: #000000; /* Cambia el color del texto a negro o el que desees */
+}
+/* Agrega estos estilos para la tabla de horarios */
+.TablaHorarios {
+    width: 60%; /* Ajusta el ancho de la tabla según tus preferencias */
+    margin: 0 auto; /* Centra la tabla horizontalmente en el contenedor */
+    border-collapse: collapse;
+    font-size: 18px;
+}
+
+.TablaHorarios td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #000; /* Borde de las celdas */
+}
+
+.TablaHorarios tr:nth-child(even) {
+    background-color: #895D0C;
+    opacity: 0.9; /* Color de fondo para filas pares */
+}
+
+.TablaHorarios tr:nth-child(odd) {
+    background-color: #895D0C; /* Color de fondo para filas impares */
+}
+
+.TablaHorarios th {
+    background-color: rgba(245, 203, 167, 0.9); /* Color de fondo para encabezados */
+    color: #000000;
+    font-weight: bold;
+    border: 1px solid #000; /* Borde de los encabezados */
+}

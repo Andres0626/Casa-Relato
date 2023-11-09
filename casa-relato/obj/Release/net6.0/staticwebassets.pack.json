@@ -177,535 +177,919 @@
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\casa-relato.bundle.scp.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\casa-relato.bundle.scp.css",
       "PackagePath": "staticwebassets\\casa-relato.bundle.scp.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\css\\site.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\css\\Aliados.css",
+      "PackagePath": "staticwebassets\\css\\Aliados.css"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\css\\Relatos.css",
+      "PackagePath": "staticwebassets\\css\\Relatos.css"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\css\\comentarios.css",
+      "PackagePath": "staticwebassets\\css\\comentarios.css"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\css\\comuna2.css",
+      "PackagePath": "staticwebassets\\css\\comuna2.css"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\css\\comuna3.css",
+      "PackagePath": "staticwebassets\\css\\comuna3.css"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\css\\iniciosesion.css",
+      "PackagePath": "staticwebassets\\css\\iniciosesion.css"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\css\\quienessomos.css",
+      "PackagePath": "staticwebassets\\css\\quienessomos.css"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\css\\tienda.css",
+      "PackagePath": "staticwebassets\\css\\tienda.css"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.js.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.min.js.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\bootstrap\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\dist\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\css\\Agenda.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\Agenda.css",
       "PackagePath": "staticwebassets\\dist\\css\\Agenda.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\css\\contacto.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\contacto.css",
       "PackagePath": "staticwebassets\\dist\\css\\contacto.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\css\\estilos.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\estilos.css",
       "PackagePath": "staticwebassets\\dist\\css\\estilos.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\css\\historias.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\historias.css",
       "PackagePath": "staticwebassets\\dist\\css\\historias.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\css\\quienessomos.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\quienessomos.css",
       "PackagePath": "staticwebassets\\dist\\css\\quienessomos.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\css\\referencias.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\css\\referencias.css",
       "PackagePath": "staticwebassets\\dist\\css\\referencias.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\dist\\js\\inicio.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\dist\\js\\inicio.js",
       "PackagePath": "staticwebassets\\dist\\js\\inicio.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\favicon.ico",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\Biblioteca.jpg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\Aliados.jpg",
+      "PackagePath": "staticwebassets\\images\\Aliados.jpg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\Biblioteca.jpg",
       "PackagePath": "staticwebassets\\images\\Biblioteca.jpg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\CafeQuienesSomos.jpeg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\CafeQuienesSomos.jpeg",
       "PackagePath": "staticwebassets\\images\\CafeQuienesSomos.jpeg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\ComoSurgimos.jpeg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\ComoSurgimos.jpeg",
       "PackagePath": "staticwebassets\\images\\ComoSurgimos.jpeg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\Espacio.jpeg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\Espacio.jpeg",
       "PackagePath": "staticwebassets\\images\\Espacio.jpeg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\Imagen1.jpg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\Imagen1.jpg",
       "PackagePath": "staticwebassets\\images\\Imagen1.jpg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\Imagen2.jpg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\Imagen2.jpg",
       "PackagePath": "staticwebassets\\images\\Imagen2.jpg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\Imagen3.jpg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\Imagen3.jpg",
       "PackagePath": "staticwebassets\\images\\Imagen3.jpg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\Imagen5.jpg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\Imagen5.jpg",
       "PackagePath": "staticwebassets\\images\\Imagen5.jpg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\VisionCasa.jpeg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\ImagenContactoss.jpg",
+      "PackagePath": "staticwebassets\\images\\ImagenContactoss.jpg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\VisionCasa.jpeg",
       "PackagePath": "staticwebassets\\images\\VisionCasa.jpeg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\artesanal.jpeg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\albeiroyepes.png",
+      "PackagePath": "staticwebassets\\images\\albeiroyepes.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\alejandravalencia.png",
+      "PackagePath": "staticwebassets\\images\\alejandravalencia.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\aliados_default.jpg",
+      "PackagePath": "staticwebassets\\images\\aliados_default.jpg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\artesanal.jpeg",
       "PackagePath": "staticwebassets\\images\\artesanal.jpeg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\cafe.jpg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\cafe.jpg",
       "PackagePath": "staticwebassets\\images\\cafe.jpg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\favicon.ico",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\cafe1.png",
+      "PackagePath": "staticwebassets\\images\\cafe1.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\cafe2.png",
+      "PackagePath": "staticwebassets\\images\\cafe2.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\cafe3.png",
+      "PackagePath": "staticwebassets\\images\\cafe3.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\carousel1.jpeg",
+      "PackagePath": "staticwebassets\\images\\carousel1.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\carousel2.jpeg",
+      "PackagePath": "staticwebassets\\images\\carousel2.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\carousel3.jpeg",
+      "PackagePath": "staticwebassets\\images\\carousel3.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\carousel4.jpeg",
+      "PackagePath": "staticwebassets\\images\\carousel4.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\elianazapata.png",
+      "PackagePath": "staticwebassets\\images\\elianazapata.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\evento1.png",
+      "PackagePath": "staticwebassets\\images\\evento1.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\evento2.png",
+      "PackagePath": "staticwebassets\\images\\evento2.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\evento3.png",
+      "PackagePath": "staticwebassets\\images\\evento3.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\evento4.png",
+      "PackagePath": "staticwebassets\\images\\evento4.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\favicon.ico",
       "PackagePath": "staticwebassets\\images\\favicon.ico"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\imagen4.jpg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\imagen4.jpg",
       "PackagePath": "staticwebassets\\images\\imagen4.jpg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\libro.png",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\img-contacto.jpg",
+      "PackagePath": "staticwebassets\\images\\img-contacto.jpg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\inicio1.jpg",
+      "PackagePath": "staticwebassets\\images\\inicio1.jpg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\inicio2.jpg",
+      "PackagePath": "staticwebassets\\images\\inicio2.jpg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\inicio3.jpg",
+      "PackagePath": "staticwebassets\\images\\inicio3.jpg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\inicio4.jpg",
+      "PackagePath": "staticwebassets\\images\\inicio4.jpg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\inicio5.jpg",
+      "PackagePath": "staticwebassets\\images\\inicio5.jpg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\johnatanjimenez.png",
+      "PackagePath": "staticwebassets\\images\\johnatanjimenez.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\juancuartas.png",
+      "PackagePath": "staticwebassets\\images\\juancuartas.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\libro.png",
       "PackagePath": "staticwebassets\\images\\libro.png"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\logo.jpg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\lilianatabares.png",
+      "PackagePath": "staticwebassets\\images\\lilianatabares.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\logo.jpg",
       "PackagePath": "staticwebassets\\images\\logo.jpg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\slide-1.jpg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\logo_blanco.png",
+      "PackagePath": "staticwebassets\\images\\logo_blanco.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\mateorojas.png",
+      "PackagePath": "staticwebassets\\images\\mateorojas.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\mision.png",
+      "PackagePath": "staticwebassets\\images\\mision.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\monicapalacio.png",
+      "PackagePath": "staticwebassets\\images\\monicapalacio.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\paulasarmiento.png",
+      "PackagePath": "staticwebassets\\images\\paulasarmiento.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\planeacion.jpeg",
+      "PackagePath": "staticwebassets\\images\\planeacion.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\portada-relatos.png",
+      "PackagePath": "staticwebassets\\images\\portada-relatos.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\producto1.png",
+      "PackagePath": "staticwebassets\\images\\producto1.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\producto2.png",
+      "PackagePath": "staticwebassets\\images\\producto2.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\producto3.png",
+      "PackagePath": "staticwebassets\\images\\producto3.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-1.jpg",
       "PackagePath": "staticwebassets\\images\\slide-1.jpg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\slide-2.jpg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-2.jpg",
       "PackagePath": "staticwebassets\\images\\slide-2.jpg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\slide-3.jpg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-3.jpg",
       "PackagePath": "staticwebassets\\images\\slide-3.jpg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\slide-4.jpg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-4.jpg",
       "PackagePath": "staticwebassets\\images\\slide-4.jpg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\slide-5.jpg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-5.jpg",
       "PackagePath": "staticwebassets\\images\\slide-5.jpg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\images\\slide-6.jpg",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\slide-6.jpg",
       "PackagePath": "staticwebassets\\images\\slide-6.jpg"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\js\\site.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\arboleda.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\arboleda.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\arboleda1.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\arboleda1.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\arboleda2.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\arboleda2.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\argiroochoa.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\argiroochoa.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\canchabucaros.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\canchabucaros.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\casaazul.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\casaazul.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\casaazul1.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\casaazul1.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\ccfabricato.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\ccfabricato.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\colegioatanasio.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\colegioatanasio.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\colegiobethlemitas.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\colegiobethlemitas.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\colegiolapresentacion.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\colegiolapresentacion.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\colegiolasalle.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\colegiolasalle.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\colegiolasalle1.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\colegiolasalle1.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\colegiosanbuenaventura.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\colegiosanbuenaventura.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\colegiosanfrancisco.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\colegiosanfrancisco.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\coopantex.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\coopantex.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\coopantex1.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\coopantex1.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\epssura.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\epssura.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\estmadera.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\estmadera.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\estmadera1.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\estmadera1.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\hospitalmental.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\hospitalmental.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\hospitalmental1.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\hospitalmental1.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\iglesiaprovidencia.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\iglesiaprovidencia.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\iglesiaprovidencia1.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\iglesiaprovidencia1.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\iglesiaprovidencia2.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\iglesiaprovidencia2.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\iglesiasantaana.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\iglesiasantaana.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\iglesiasantaclara.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\iglesiasantaclara.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\iglesiasantamarta.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\iglesiasantamarta.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\iglesiasantana.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\iglesiasantana.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\jic.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\jic.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\jic1.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\jic1.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\liceoantioqueno.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\liceoantioqueno.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\liceoantioqueno1.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\liceoantioqueno1.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\metrocencosud.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\metrocencosud.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\metromall.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\metromall.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\metromall1.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\metromall1.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\natipan.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\natipan.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\natipan1.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\natipan1.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\parquedeperros.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\parquedeperros.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\parquedeperros1.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\parquedeperros1.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\parquerecreativoobrero.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\parquerecreativoobrero.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\parquerecreativoobrero1.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\parquerecreativoobrero1.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\piamonte.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\piamonte.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\piscinaserramonte.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\piscinaserramonte.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\supermercadola80.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\supermercadola80.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\unisanbuenaventura.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\unisanbuenaventura.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\territorio\\uvacafebar.jpeg",
+      "PackagePath": "staticwebassets\\images\\territorio\\uvacafebar.jpeg"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\valeriacifuentes.png",
+      "PackagePath": "staticwebassets\\images\\valeriacifuentes.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\valores.png",
+      "PackagePath": "staticwebassets\\images\\valores.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\vision.png",
+      "PackagePath": "staticwebassets\\images\\vision.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\yasserorrego.png",
+      "PackagePath": "staticwebassets\\images\\yasserorrego.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\images\\yudicellyzapata.png",
+      "PackagePath": "staticwebassets\\images\\yudicellyzapata.png"
+    },
+    {
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "F:\\Proyecto Casa Relato C#\\casa-relato\\casa-relato\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "F:\\CASA RELATO\\Casa-Relato\\casa-relato\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
